@@ -1,0 +1,800 @@
+2500 0 6 0           
+51 Vector Fields, Opera-3d Modeller version 18.2.36714 14 ACIS 25.0.2 NT 24 Tue Dec 13 09:46:42 2016 
+1 9.9999999999999995e-007 1e-010 
+T @52 SJ6RN4B4JJPSQ4CK5M29BVMR64KBAE5BWBPKJAA7BBJVP47VEAD4 
+body $6 -1 -1 $-1 $-1 $-1 $-1 F #
+wcs $7 -1 1 6.1232339957367648e-017 -6.1232339957367636e-017 6.1232339957367636e-017 6.1232339957367648e-017 1 6.1232339957367648e-017 -1 6.1232339957367636e-017 0 0 0 1 rotate no_reflect no_shear #
+wcs $8 -1 1 6.1232339957367648e-017 -6.1232339957367636e-017 6.1232339957367636e-017 6.1232339957367648e-017 1 6.1232339957367648e-017 -1 6.1232339957367636e-017 0 0 -7 1 rotate no_reflect no_shear #
+body $9 -1 -1 $-1 $10 $-1 $11 T -2 -2 -10 2 2 10 #
+body $12 -1 -1 $-1 $13 $-1 $14 T -6 -6 -10 6 6 10 #
+body $15 -1 -1 $-1 $16 $-1 $17 T -7.7936045061194388e-015 -7.3478807948841178e-016 0 42.426406871192846 42.426406871192846 50 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $18 $-1 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @794 293:USERINPUT=SOLENOID OPTION=MODIFY -KEEP XP1=3 YP1=3 XP2=4 YP2=3 XP3=4 YP3=4 XP4=3 YP4=4 CU1=0 CU2=0 CU3=0 CU4=0 INCIRCUIT=NO CIRCUITELEMENT= CURD=1 TOLERANCE=0 DRIVELABEL='Spule2' LCNAME='Global coordinate system' XCEN2=0 YCEN2=0 ZCEN2=-7 THETA2=90 PHI2=-90 PSI2=90 RXY=0 RYZ=0 RZX=0 SYMMETRY=18:CSTRUC=020:COMMANDNAME=SOLENOID299:PARAMETERS=REVERSE=NO MODELCOMPONENT=NO OPTION=MODIFY KEEP=NO XP1=3 YP1=3 XP2=4 YP2=3 XP3=4 YP3=4 XP4=3 YP4=4 CU1=0 CU2=0 CU3=0 CU4=0 INCIRCUIT=NO CURD=1 TOLERANCE=0 DRIVELABEL=Spule2 LCNAME='Global coordinate system' XCEN2=0 YCEN2=0 ZCEN2=-7 THETA2=90 PHI2=-90 PSI2=90 RXY=0 RYZ=0 RZX=0 SYMMETRY=1 6:ID=11810:PARENTID=127:DESCRIPTION=Modify solenoid14:ACTIONTYPE=60022:USEFLAG=PICK_CONDUCTOR18:WITHFLAG=CONDUCTOR22:ENDFLAG=PICK_CONDUCTOR19:IGNOREEMPTYPARS=ALL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $19 $-1 $1 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @54 8:NAME=2009:VERSION=215:List=Drivelabel12:Label=Spule1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $20 $-1 $2 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @54 8:NAME=2019:VERSION=215:List=Drivelabel12:Label=Spule2 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $21 $-1 $3 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 2 #
+lump $22 -1 -1 $-1 $-1 $23 $3 T -2 -2 -10 2 2 10 #
+transform $-1 -1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $24 $-1 $4 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+lump $25 -1 -1 $-1 $-1 $26 $4 T -6 -6 -10 6 6 10 #
+transform $-1 -1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 -1 $27 $-1 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @55 7:NAME=769:VERSION=218:List=MaterialLabel11:Label=Eisen #
+lump $28 -1 -1 $-1 $-1 $29 $5 T -7.7936045061194388e-015 -7.3478807948841178e-016 0 42.426406871192846 42.426406871192846 50 #
+transform $-1 -1 1 0 0 0 1 0 0 0 1 0 0 0 1 no_rotate no_reflect no_shear #
+string_attrib-name_attrib-gen-attrib $-1 -1 $30 $6 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @176 30:USERINPUT=SOLENOID OPTION=LOAD8:CSTRUC=020:COMMANDNAME=SOLENOID23:PARAMETERS=OPTION=LOAD 6:ID=11610:PARENTID=114:ACTIONTYPE=60022:USEFLAG=PICK_CONDUCTOR18:WITHFLAG=CONDUCTOR #
+string_attrib-name_attrib-gen-attrib $-1 -1 $31 $7 $1 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @65 8:NAME=1829:VERSION=29:List=CLCS30:Label=Global coordinate system #
+string_attrib-name_attrib-gen-attrib $-1 -1 $32 $8 $2 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @65 8:NAME=1829:VERSION=29:List=CLCS30:Label=Global coordinate system #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $9 $3 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @147 12:ENTITYTYPE=19:VERSION=212:Identifier=B9:Name=Joch15:UniqueName=Joch17:ModelPart=Default17:VectorsValidId=1214:GeomValidId=1217:ColoursValidId=20 #
+cell_ptr-ct-attrib $-1 -1 $-1 $-1 $10 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $33 $-1 auto #
+shell $-1 -1 -1 $-1 $-1 $-1 $34 $-1 $10 T -2 -2 -10 2 2 10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $12 $4 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @160 12:ENTITYTYPE=19:VERSION=212:Identifier=B15:Name=Spulenluft21:UniqueName=Spulenluft17:ModelPart=Default17:VectorsValidId=1314:GeomValidId=1117:ColoursValidId=19 #
+cell_ptr-ct-attrib $-1 -1 $-1 $-1 $13 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $35 $-1 auto #
+shell $-1 -1 -1 $-1 $-1 $-1 $36 $-1 $13 T -6 -6 -10 6 6 10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $37 $15 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @51 6:NAME=79:VERSION=218:List=MaterialLabel9:Label=Air #
+cell_ptr-ct-attrib $-1 -1 $-1 $-1 $16 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $38 $-1 auto #
+shell $-1 -1 -1 $-1 $-1 $-1 $39 $-1 $16 T -7.7936045061194388e-015 -7.3478807948841178e-016 0 42.426406871192846 42.426406871192846 50 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $40 $18 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @328 39:USERINPUT=PICK OPTION=ADD TYPE=COND N=28:CSTRUC=016:COMMANDNAME=PICK61:PARAMETERS=WAIT=NO WILDCARD=NO OPTION=ADD TYPE=COND NUMBER=2 6:ID=11510:PARENTID=136:DESCRIPTION=Pick: 1 conductor picked14:ACTIONTYPE=55024:STARTFLAG=PICK_CONDUCTOR22:USEFLAG=PICK_CONDUCTOR18:NEEDFLAG=CONDUCTOR18:WITHFLAG=CONDUCTOR19:IGNOREEMPTYPARS=ALL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $41 $19 $1 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @53 7:NAME=179:VERSION=213:List=Coiltype14:Label=SOLENOID #
+string_attrib-name_attrib-gen-attrib $-1 -1 $42 $20 $2 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @53 7:NAME=179:VERSION=213:List=Coiltype14:Label=SOLENOID #
+cell3d-cell $43 -1 $-1 $10 $-1 1 $44 #
+face $45 -1 -1 $-1 $46 $47 $23 $-1 $48 forward single T -2 -2.4492935982947059e-016 -10 2 2 10 F #
+cell3d-cell $49 -1 $-1 $13 $-1 1 $50 #
+face $51 -1 -1 $-1 $52 $53 $26 $-1 $54 forward single T -6 -7.3478807948841178e-016 -10 6 6 10 F #
+string_attrib-name_attrib-gen-attrib $-1 -1 $55 $27 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @65 7:NAME=659:VERSION=218:List=BoundaryLabel21:Label=Farfield Radius #
+cell3d-cell $56 59 $57 $16 $-1 1 $58 #
+face $59 104 -1 $-1 $60 $61 $29 $-1 $62 forward single T 0 -7.3478807948841178e-016 0 42.426406871192846 0 50 F #
+string_attrib-name_attrib-gen-attrib $-1 -1 $63 $30 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @792 292:USERINPUT=SOLENOID OPTION=MODIFY -KEEP XP1=3 YP1=3 XP2=4 YP2=3 XP3=4 YP3=4 XP4=3 YP4=4 CU1=0 CU2=0 CU3=0 CU4=0 INCIRCUIT=NO CIRCUITELEMENT= CURD=1 TOLERANCE=0 DRIVELABEL='Spule1' LCNAME='Global coordinate system' XCEN2=0 YCEN2=0 ZCEN2=0 THETA2=90 PHI2=-90 PSI2=90 RXY=0 RYZ=0 RZX=0 SYMMETRY=18:CSTRUC=020:COMMANDNAME=SOLENOID298:PARAMETERS=REVERSE=NO MODELCOMPONENT=NO OPTION=MODIFY KEEP=NO XP1=3 YP1=3 XP2=4 YP2=3 XP3=4 YP3=4 XP4=3 YP4=4 CU1=0 CU2=0 CU3=0 CU4=0 INCIRCUIT=NO CURD=1 TOLERANCE=0 DRIVELABEL=Spule1 LCNAME='Global coordinate system' XCEN2=0 YCEN2=0 ZCEN2=0 THETA2=90 PHI2=-90 PSI2=90 RXY=0 RYZ=0 RZX=0 SYMMETRY=1 6:ID=11310:PARENTID=127:DESCRIPTION=Modify solenoid14:ACTIONTYPE=60022:USEFLAG=PICK_CONDUCTOR18:WITHFLAG=CONDUCTOR22:ENDFLAG=PICK_CONDUCTOR19:IGNOREEMPTYPARS=ALL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $64 $31 $1 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 VF_DRIVE_DATA @25 11:NAME=Spule19:VERSION=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $65 $32 $2 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 VF_DRIVE_DATA @25 11:NAME=Spule29:VERSION=1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $66 $-1 $33 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+cshell $-1 -1 $-1 $67 $33 #
+fctd_mark-eye-attrib $-1 -1 $68 $-1 $34 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+face $69 -1 -1 $-1 $70 $71 $23 $-1 $48 forward single T -2 -2 -10 2 2.4492935982947059e-016 10 F #
+loop $-1 -1 -1 $-1 $-1 $72 $34 T -2 -2.4492935982947059e-016 -10 2 2 10 unknown #
+cone-surface $-1 -1 -1 $-1 0 0 0 0 0 1 2 0 0 1 I I 0 1 2 forward I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $73 $-1 $35 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+cshell $-1 -1 $-1 $74 $35 #
+fctd_mark-eye-attrib $-1 -1 $75 $-1 $36 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+face $76 -1 -1 $-1 $77 $78 $26 $-1 $54 forward single T -6 -6 -10 6 7.3478807948841178e-016 10 F #
+loop $-1 -1 -1 $-1 $-1 $79 $36 T -6 -7.3478807948841178e-016 -10 6 6 10 unknown #
+cone-surface $-1 -1 -1 $-1 0 0 0 0 0 1 6 0 0 1 I I 0 1 6 forward I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $80 $37 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @69 7:NAME=649:VERSION=218:List=BoundaryLabel25:Label=Farfield Front (+z) #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $81 $-1 $38 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+cell3d-cell $82 60 $83 $16 $-1 1 $84 #
+cshell $-1 -1 $-1 $85 $38 #
+rgb_color-st-attrib $-1 -1 $86 $-1 $39 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.60000002384185791 0.60000002384185791 0.60000002384185791 #
+face $87 110 -1 $-1 $88 $89 $29 $-1 $90 forward single T -7.7936045061194388e-015 0 0 42.426406871192846 42.426406871192846 0 F #
+loop $-1 -1 -1 $-1 $-1 $91 $39 T 0 -7.3478807948841178e-016 0 42.426406871192846 0 50 unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0 0 -1 0 0 0 -1 forward_v I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $92 $40 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @176 30:USERINPUT=SOLENOID OPTION=LOAD8:CSTRUC=020:COMMANDNAME=SOLENOID23:PARAMETERS=OPTION=LOAD 6:ID=11110:PARENTID=114:ACTIONTYPE=60022:USEFLAG=PICK_CONDUCTOR18:WITHFLAG=CONDUCTOR #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $93 $41 $1 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $94 $42 $2 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $43 $33 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @120 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000018:Level=106:Size=119:MaterialLabel=Eisen #
+cface $95 -1 $96 $44 $97 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $98 $45 $34 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+fctd_mark-eye-attrib $-1 -1 $99 $-1 $46 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+face $100 -1 -1 $-1 $97 $101 $23 $-1 $102 forward single T -2 -2 -10 2 2 -10 F #
+loop $-1 -1 -1 $-1 $-1 $103 $46 T -2 -2 -10 2 2.4492935982947059e-016 10 unknown #
+coedge $-1 -1 -1 $-1 $104 $105 $103 $106 reversed $47 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $49 $35 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @117 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000017:Level=56:Size=117:MaterialLabel=Air #
+cface $107 -1 $108 $50 $109 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $110 $51 $36 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+fctd_mark-eye-attrib $-1 -1 $111 $-1 $52 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+face $112 -1 -1 $-1 $109 $113 $26 $-1 $114 forward single T -6 -6 -10 6 6 -10 F #
+loop $-1 -1 -1 $-1 $-1 $115 $52 T -6 -6 -10 6 7.3478807948841178e-016 10 unknown #
+coedge $-1 -1 -1 $-1 $116 $117 $115 $118 reversed $53 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $119 $55 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @41 8:NAME=1999:VERSION=29:List=Size7:Label=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $56 $38 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @120 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000018:Level=106:Size=119:MaterialLabel=Eisen #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $120 $-1 $57 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 2 #
+cell3d-cell $121 105 $-1 $16 $-1 1 $122 #
+cshell $-1 -1 $-1 $123 $57 #
+cface $124 -1 $125 $58 $126 0 #
+fctd_mark-eye-attrib $-1 -1 $127 $59 $39 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+rgb_color-st-attrib $-1 -1 $128 $-1 $60 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.60000002384185791 0.60000002384185791 0.60000002384185791 #
+face $129 112 -1 $-1 $130 $131 $29 $-1 $132 forward single T -7.7936045061194388e-015 0 0 42.426406871192846 42.426406871192846 50 F #
+loop $-1 -1 -1 $-1 $-1 $133 $60 T -7.7936045061194388e-015 0 0 42.426406871192846 42.426406871192846 0 unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0 0 0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 -1 -1 $-1 $134 $135 $136 $137 reversed $61 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $138 $63 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @328 39:USERINPUT=PICK OPTION=ADD TYPE=COND N=18:CSTRUC=016:COMMANDNAME=PICK61:PARAMETERS=WAIT=NO WILDCARD=NO OPTION=ADD TYPE=COND NUMBER=1 6:ID=11010:PARENTID=136:DESCRIPTION=Pick: 1 conductor picked14:ACTIONTYPE=55024:STARTFLAG=PICK_CONDUCTOR22:USEFLAG=PICK_CONDUCTOR18:NEEDFLAG=CONDUCTOR18:WITHFLAG=CONDUCTOR19:IGNOREEMPTYPARS=ALL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $64 $1 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @289 13:ENTITYTYPE=649:VERSION=317:Coiltype=SOLENOID186:Data=10,1,0,0,0,1,0,0,0,0,0,90,-90,90,0,0,0,3,3,4,3,4,4,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17:DriveLabel=Spule129:CLCS=Global coordinate system #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $65 $2 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @290 13:ENTITYTYPE=649:VERSION=317:Coiltype=SOLENOID187:Data=10,1,0,0,0,1,0,0,0,0,-7,90,-90,90,0,0,0,3,3,4,3,4,4,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17:DriveLabel=Spule229:CLCS=Global coordinate system #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $67 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @120 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000018:Level=106:Size=119:MaterialLabel=Eisen #
+cface $139 -1 $140 $44 $70 0 #
+face $141 -1 -1 $-1 $-1 $142 $23 $-1 $143 forward single T -2 -2 10 2 2 10 F #
+string_attrib-name_attrib-gen-attrib $-1 -1 $144 $68 $34 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @89 12:ENTITYTYPE=49:VERSION=325:Information=External face11:FaceSense=018:Identifier=A.00001 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $145 $69 $46 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 2 #
+fctd_mark-eye-attrib $-1 -1 $146 $-1 $70 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+loop $-1 -1 -1 $-1 $-1 $147 $70 T -2 -2 -10 2 2 -10 unknown #
+plane-surface $-1 -1 -1 $-1 0 0 -10 0 0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 -1 -1 $-1 $148 $149 $72 $106 forward $71 $-1 #
+coedge $-1 -1 -1 $-1 $150 $72 $151 $152 reversed $47 $-1 #
+coedge $-1 -1 -1 $-1 $72 $150 $153 $154 reversed $47 $-1 #
+edge $155 -1 -1 $-1 $156 -10 $157 10 $103 $158 forward @7 unknown T 2 -2.4492935982947059e-016 -10 2 0 10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $74 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @117 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000017:Level=56:Size=117:MaterialLabel=Air #
+cface $159 -1 $160 $50 $77 0 #
+face $161 -1 -1 $-1 $-1 $162 $26 $-1 $163 forward single T -6 -6 10 6 6 10 F #
+string_attrib-name_attrib-gen-attrib $-1 -1 $164 $75 $36 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @89 12:ENTITYTYPE=49:VERSION=325:Information=External face11:FaceSense=018:Identifier=A.00001 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $165 $76 $52 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 2 #
+fctd_mark-eye-attrib $-1 -1 $166 $-1 $77 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+loop $-1 -1 -1 $-1 $-1 $167 $77 T -6 -6 -10 6 6 -10 unknown #
+plane-surface $-1 -1 -1 $-1 0 0 -10 0 0 -1 -1 0 0 forward_v I I I I #
+coedge $-1 -1 -1 $-1 $168 $169 $79 $118 forward $78 $-1 #
+coedge $-1 -1 -1 $-1 $170 $79 $171 $172 reversed $53 $-1 #
+coedge $-1 -1 -1 $-1 $79 $170 $173 $174 reversed $53 $-1 #
+edge $175 -1 -1 $-1 $176 -10 $177 10 $115 $178 forward @7 unknown T 6 -7.3478807948841178e-016 -10 6 0 10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $179 $80 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @76 8:NAME=1989:VERSION=226:List=ModelSymmetryBoundary23:Label=YZ Symmetry Plane #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $82 $57 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @118 12:ENTITYTYPE=29:VERSION=431:Information=Hexahedral meshable18:Identifier=B.000017:Level=56:Size=117:MaterialLabel=Air #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $180 $-1 $83 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 3 #
+cshell $-1 -1 $-1 $181 $83 #
+cface $182 -1 $183 $84 $184 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $85 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @120 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000018:Level=106:Size=119:MaterialLabel=Eisen #
+cface $185 -1 $186 $58 $187 0 #
+face $188 64 -1 $-1 $189 $190 $29 $-1 $191 forward single T 0 0 0 2 2 0 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $192 $86 $39 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+fctd_mark-eye-attrib $-1 -1 $193 $87 $60 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+rgb_color-st-attrib $-1 -1 $194 $-1 $88 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.60000002384185791 0.60000002384185791 0.60000002384185791 #
+face $195 115 -1 $-1 $196 $197 $29 $-1 $198 forward single T 0 0 0 0 42.426406871192846 50 F #
+loop $-1 -1 -1 $-1 $-1 $199 $88 T -7.7936045061194388e-015 0 0 42.426406871192846 42.426406871192846 50 periphery $132 F #
+cone-surface $-1 -1 -1 $-1 0 0 25 0 0 1 42.426406871192846 0 0 1 I I 0 1 42.426406871192846 forward I I I I #
+coedge $-1 -1 -1 $-1 $200 $201 $202 $203 reversed $89 $-1 #
+coedge $-1 -1 -1 $-1 $204 $91 $205 $206 reversed $61 $-1 #
+coedge $-1 -1 -1 $-1 $91 $207 $208 $209 reversed $61 $-1 #
+coedge $-1 -1 -1 $-1 $210 $211 $212 $137 reversed $213 $-1 #
+edge $214 76 -1 $-1 $215 -2 $216 0 $136 $217 forward @7 unknown T 0 0 10 2 0 10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $218 $92 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @123 23:USERINPUT=DRIVE GUIINIT8:CSTRUC=017:COMMANDNAME=DRIVE26:PARAMETERS=OPTION=GUIINIT 6:ID=10710:PARENTID=114:ACTIONTYPE=500 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $96 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @120 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000018:Level=106:Size=119:MaterialLabel=Eisen #
+cface $219 -1 $220 $44 $46 0 #
+fctd_mark-eye-attrib $-1 -1 $221 $-1 $97 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+loop $-1 -1 -1 $-1 $-1 $153 $97 T -2 -2 10 2 2 10 unknown #
+plane-surface $-1 -1 -1 $-1 0 0 10 0 0 1 1 0 0 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $222 $98 $34 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 125 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $223 $99 $46 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @89 12:ENTITYTYPE=49:VERSION=325:Information=External face11:FaceSense=018:Identifier=A.00002 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $224 $100 $70 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 3 #
+coedge $-1 -1 -1 $-1 $151 $151 $149 $225 forward $101 $-1 #
+coedge $-1 -1 -1 $-1 $226 $103 $227 $228 reversed $71 $-1 #
+coedge $-1 -1 -1 $-1 $103 $226 $147 $225 reversed $71 $-1 #
+coedge $-1 -1 -1 $-1 $105 $104 $226 $229 reversed $47 $-1 #
+coedge $-1 -1 -1 $-1 $147 $147 $104 $152 forward $101 $-1 #
+edge $230 -1 -1 $-1 $231 3.1415926535897931 $156 6.2831853071795862 $151 $232 forward @7 unknown T -2 -2.4492935982947059e-016 -10 2 2 -10 #
+coedge $-1 -1 -1 $-1 $227 $227 $105 $154 forward $142 $-1 #
+edge $233 -1 -1 $-1 $157 0 $234 3.1415926535897931 $153 $235 forward @7 unknown T -2 0 10 2 2 10 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $236 $-1 $106 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+vertex $237 -1 -1 $-1 $152 $238 #
+vertex $239 -1 -1 $-1 $228 $240 #
+straight-curve $-1 -1 -1 $-1 2 -2.4492935982947059e-016 0 0 0 1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $108 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @117 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000017:Level=56:Size=117:MaterialLabel=Air #
+cface $241 -1 $242 $50 $52 0 #
+fctd_mark-eye-attrib $-1 -1 $243 $-1 $109 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+loop $-1 -1 -1 $-1 $-1 $173 $109 T -6 -6 10 6 6 10 unknown #
+plane-surface $-1 -1 -1 $-1 0 0 10 0 0 1 1 0 0 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $244 $110 $36 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 376 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $245 $111 $52 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @89 12:ENTITYTYPE=49:VERSION=325:Information=External face11:FaceSense=018:Identifier=A.00002 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $246 $112 $77 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 3 #
+coedge $-1 -1 -1 $-1 $171 $171 $169 $247 forward $113 $-1 #
+coedge $-1 -1 -1 $-1 $248 $115 $249 $250 reversed $78 $-1 #
+coedge $-1 -1 -1 $-1 $115 $248 $167 $247 reversed $78 $-1 #
+coedge $-1 -1 -1 $-1 $117 $116 $248 $251 reversed $53 $-1 #
+coedge $-1 -1 -1 $-1 $167 $167 $116 $172 forward $113 $-1 #
+edge $252 -1 -1 $-1 $253 3.1415926535897931 $176 6.2831853071795862 $171 $254 forward @7 unknown T -6 -7.3478807948841178e-016 -10 6 6 -10 #
+coedge $-1 -1 -1 $-1 $249 $249 $117 $174 forward $162 $-1 #
+edge $255 -1 -1 $-1 $177 0 $256 3.1415926535897931 $173 $257 forward @7 unknown T -6 0 10 6 6 10 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $258 $-1 $118 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+vertex $259 -1 -1 $-1 $172 $260 #
+vertex $261 -1 -1 $-1 $250 $262 #
+straight-curve $-1 -1 -1 $-1 6 -7.3478807948841178e-016 0 0 0 1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $263 $119 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @76 8:NAME=1979:VERSION=226:List=ModelSymmetryBoundary23:Label=XY Symmetry Plane #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $121 $83 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @67 12:ENTITYTYPE=29:VERSION=418:Identifier=F.0000117:MaterialLabel=Air #
+cface $264 -1 $265 $122 $60 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $123 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @118 12:ENTITYTYPE=29:VERSION=431:Information=Hexahedral meshable18:Identifier=B.000017:Level=56:Size=117:MaterialLabel=Air #
+cface $266 -1 $267 $84 $268 0 #
+face $269 67 -1 $-1 $270 $271 $29 $-1 $272 forward double in T 0 -2.4492935982947059e-016 0 2 2 10 F #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $125 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @120 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000018:Level=106:Size=119:MaterialLabel=Eisen #
+cface $273 -1 $274 $58 $275 0 #
+face $276 62 -1 $-1 $277 $278 $29 $-1 $279 forward single T 0 0 0 0 2 10 F #
+rgb_color-st-attrib $-1 -1 $280 $-1 $126 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.54901963472366333 0.90196079015731812 0.015686275437474251 #
+face $281 63 -1 $-1 $187 $282 $29 $-1 $279 forward single T 0 2 0 0 6 10 F #
+loop $-1 -1 -1 $-1 $-1 $283 $126 T 0 0 0 2 2 0 unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0 0 0 -1 -1 0 0 forward_v I I I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $284 $127 $39 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 2061 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $285 $128 $60 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 2 #
+fctd_mark-eye-attrib $-1 -1 $286 $129 $88 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+rgb_color-st-attrib $-1 -1 $287 $-1 $130 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.60000002384185791 0.60000002384185791 0.60000002384185791 #
+face $288 117 -1 $-1 $289 $290 $29 $-1 $291 forward single T 0 0 50 42.426406871192846 42.426406871192846 50 F #
+loop $-1 -1 -1 $-1 $-1 $292 $130 T 0 0 0 0 42.426406871192846 50 unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0 -1 0 0 0 0 1 forward_v I I I I #
+coedge $-1 -1 -1 $-1 $293 $294 $295 $296 forward $131 $-1 #
+coedge $-1 -1 -1 $-1 $297 $133 $298 $299 forward $89 $-1 #
+coedge $-1 -1 -1 $-1 $133 $297 $300 $301 forward $89 $-1 #
+coedge $-1 -1 -1 $-1 $302 $303 $304 $203 reversed $305 $-1 #
+edge $306 77 -1 $-1 $307 -1.5707963267948966 $308 0 $202 $309 forward @7 unknown T 0 0 0 6 6 0 #
+coedge $-1 -1 -1 $-1 $300 $134 $303 $310 reversed $61 $-1 #
+coedge $-1 -1 -1 $-1 $311 $312 $313 $206 reversed $314 $-1 #
+edge $315 71 -1 $-1 $316 -6 $215 -2 $205 $317 forward @7 unknown T 2 0 10 6 0 10 #
+coedge $-1 -1 -1 $-1 $135 $295 $318 $319 reversed $61 $-1 #
+coedge $-1 -1 -1 $-1 $320 $292 $135 $209 forward $197 $-1 #
+edge $321 103 -1 $-1 $216 10 $322 50 $208 $323 forward @7 unknown T 0 0 10 0 0 50 #
+coedge $-1 -1 -1 $-1 $211 $136 $312 $324 forward $213 $-1 #
+coedge $-1 -1 -1 $-1 $136 $210 $325 $326 reversed $213 $-1 #
+coedge $-1 -1 -1 $-1 $327 $328 $91 $137 forward $329 $-1 #
+loop $-1 -1 -1 $-1 $-1 $136 $275 T 0 0 10 2 2 10 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $330 $-1 $137 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+vertex $331 96 -1 $-1 $137 $332 #
+vertex $333 89 -1 $-1 $137 $334 #
+straight-curve $-1 -1 -1 $-1 0 0 10 -1 0 0 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $335 $138 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @225 22:USERINPUT=MODEL CREATE8:CSTRUC=017:COMMANDNAME=MODEL25:PARAMETERS=OPTION=CREATE 5:ID=9910:PARENTID=129:DESCRIPTION=Create model body14:ACTIONTYPE=60024:STARTFLAG=BODY_MODELBODY17:USEFLAG=BODY_JOCH23:USEFLAG=BODY_SPULENLUFT #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $140 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @120 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000018:Level=106:Size=119:MaterialLabel=Eisen #
+cface $336 -1 $-1 $44 $34 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $337 $141 $97 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 4 #
+cface_ptr-ct-attrib $-1 -1 $-1 $144 $34 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $220 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $338 $145 $46 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 125 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $339 $146 $70 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @89 12:ENTITYTYPE=49:VERSION=325:Information=External face11:FaceSense=018:Identifier=A.00003 #
+edge $340 -1 -1 $-1 $156 0 $231 3.1415926535897931 $147 $232 forward @7 unknown T -2 -2 -10 2 2.4492935982947059e-016 -10 #
+coedge $-1 -1 -1 $-1 $149 $148 $150 $229 forward $71 $-1 #
+coedge $-1 -1 -1 $-1 $153 $153 $148 $228 forward $142 $-1 #
+edge $341 -1 -1 $-1 $234 3.1415926535897931 $157 6.2831853071795862 $227 $235 forward @7 unknown T -2 -2 10 2 2.4492935982947059e-016 10 #
+edge $342 -1 -1 $-1 $234 -10 $231 10 $226 $343 forward @7 unknown T -2 2.4492935982947059e-016 -10 -2 2.4492935982947059e-016 10 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $344 $-1 $152 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 2 #
+vertex $345 -1 -1 $-1 $152 $346 #
+ellipse-curve $-1 -1 -1 $-1 0 0 -10 0 0 -1 2 0 0 1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $347 $-1 $154 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 4 #
+vertex $348 -1 -1 $-1 $228 $349 #
+ellipse-curve $-1 -1 -1 $-1 0 0 10 0 0 1 2 0 0 1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $155 $106 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=A.00001 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $350 $-1 $156 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 2 #
+point $-1 -1 -1 $-1 2 0 -10 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $351 $-1 $157 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+point $-1 -1 -1 $-1 2 0 10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $160 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @117 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000017:Level=56:Size=117:MaterialLabel=Air #
+cface $352 -1 $-1 $50 $36 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $353 $161 $109 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 4 #
+cface_ptr-ct-attrib $-1 -1 $-1 $164 $36 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $242 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $354 $165 $52 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 376 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $355 $166 $77 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @89 12:ENTITYTYPE=49:VERSION=325:Information=External face11:FaceSense=018:Identifier=A.00003 #
+edge $356 -1 -1 $-1 $176 0 $253 3.1415926535897931 $167 $254 forward @7 unknown T -6 -6 -10 6 7.3478807948841178e-016 -10 #
+coedge $-1 -1 -1 $-1 $169 $168 $170 $251 forward $78 $-1 #
+coedge $-1 -1 -1 $-1 $173 $173 $168 $250 forward $162 $-1 #
+edge $357 -1 -1 $-1 $256 3.1415926535897931 $177 6.2831853071795862 $249 $257 forward @7 unknown T -6 -6 10 6 7.3478807948841178e-016 10 #
+edge $358 -1 -1 $-1 $256 -10 $253 10 $248 $359 forward @7 unknown T -6 7.3478807948841178e-016 -10 -6 7.3478807948841178e-016 10 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $360 $-1 $172 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 2 #
+vertex $361 -1 -1 $-1 $172 $362 #
+ellipse-curve $-1 -1 -1 $-1 0 0 -10 0 0 -1 6 0 0 1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $363 $-1 $174 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 4 #
+vertex $364 -1 -1 $-1 $250 $365 #
+ellipse-curve $-1 -1 -1 $-1 0 0 10 0 0 1 6 0 0 1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $175 $118 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=A.00001 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $366 $-1 $176 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 2 #
+point $-1 -1 -1 $-1 6 0 -10 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $367 $-1 $177 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+point $-1 -1 -1 $-1 6 0 10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $368 $179 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @76 8:NAME=1969:VERSION=226:List=ModelSymmetryBoundary23:Label=ZX Symmetry Plane #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $181 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @67 12:ENTITYTYPE=29:VERSION=418:Identifier=F.0000117:MaterialLabel=Air #
+cface $369 -1 $370 $122 $371 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $183 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @118 12:ENTITYTYPE=29:VERSION=431:Information=Hexahedral meshable18:Identifier=B.000017:Level=56:Size=117:MaterialLabel=Air #
+cface $372 -1 $373 $84 $270 0 #
+face $374 65 -1 $-1 $126 $375 $29 $-1 $376 forward single T 2 -7.3478807948841178e-016 0 6 0 10 F #
+rgb_color-st-attrib $-1 -1 $377 $-1 $184 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.60000002384185791 0.60000002384185791 0.60000002384185791 #
+face $378 69 -1 $-1 $275 $314 $29 $-1 $379 forward double in T 0 0 10 6 6 10 F #
+loop $-1 -1 -1 $-1 $-1 $380 $184 T 0 -2.4492935982947059e-016 0 2 2 10 periphery $272 F #
+cone-surface $-1 -1 -1 $-1 0 0 0 0 0 1 2 0 0 1 I I 0 1 2 forward I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $186 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @120 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000018:Level=106:Size=119:MaterialLabel=Eisen #
+cface $381 -1 $382 $58 $184 0 #
+face $383 61 -1 $-1 $-1 $213 $29 $-1 $384 forward double in T 0 0 10 2 2 10 F #
+rgb_color-st-attrib $-1 -1 $385 $-1 $187 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.54901963472366333 0.90196079015731812 0.015686275437474251 #
+face $386 70 -1 $-1 $371 $387 $29 $-1 $191 forward single T 0 0 0 6 6 0 F #
+loop $-1 -1 -1 $-1 $-1 $325 $187 T 0 0 0 0 2 10 unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0 -1 0 0 0 0 1 forward_v I I I I #
+fctd_mark-eye-attrib $-1 -1 $388 $188 $126 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+rgb_color-st-attrib $-1 -1 $389 $-1 $189 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.60000002384185791 0.60000002384185791 0.60000002384185791 #
+loop $-1 -1 -1 $-1 $-1 $390 $189 T 0 2 0 0 6 10 unknown #
+coedge $-1 -1 -1 $-1 $391 $392 $393 $394 forward $190 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $395 $192 $39 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @115 12:ENTITYTYPE=49:VERSION=325:Information=External face18:Identifier=F.0000111:FaceSense=023:ModelSymmetryBoundary=3 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $396 $193 $60 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 1385 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $397 $194 $88 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 3 #
+fctd_mark-eye-attrib $-1 -1 $398 $195 $130 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+rgb_color-st-attrib $-1 -1 $399 $-1 $196 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.60000002384185791 0.60000002384185791 0.60000002384185791 #
+face $400 66 -1 $-1 $268 $329 $29 $-1 $376 forward single T 0 -2.4492935982947059e-016 0 2 0 10 F #
+loop $-1 -1 -1 $-1 $-1 $318 $196 T 0 0 50 42.426406871192846 42.426406871192846 50 unknown #
+plane-surface $-1 -1 -1 $-1 0 0 50 0 0 1 1 0 0 forward_v I I I I #
+coedge $-1 -1 -1 $-1 $208 $401 $211 $326 reversed $197 $-1 #
+coedge $-1 -1 -1 $-1 $402 $199 $297 $403 reversed $131 $-1 #
+coedge $-1 -1 -1 $-1 $199 $402 $404 $405 reversed $131 $-1 #
+coedge $-1 -1 -1 $-1 $207 $300 $199 $296 reversed $61 $-1 #
+edge $406 106 -1 $-1 $407 -25 $408 25 $199 $409 forward @7 unknown T 42.426406871192846 0 0 42.426406871192846 0 50 #
+coedge $-1 -1 -1 $-1 $201 $200 $293 $403 forward $89 $-1 #
+coedge $-1 -1 -1 $-1 $410 $411 $200 $299 reversed $197 $-1 #
+edge $412 111 -1 $-1 $307 6 $413 42.426406871192846 $200 $414 forward @7 unknown T 0 6 0 0 42.426406871192846 0 #
+coedge $-1 -1 -1 $-1 $295 $204 $201 $301 reversed $61 $-1 #
+edge $415 108 -1 $-1 $408 -42.426406871192846 $308 -6 $201 $416 forward @7 unknown T 6 0 0 42.426406871192846 0 0 #
+coedge $-1 -1 -1 $-1 $417 $202 $390 $418 reversed $305 $-1 #
+coedge $-1 -1 -1 $-1 $202 $417 $419 $310 reversed $305 $-1 #
+coedge $-1 -1 -1 $-1 $420 $421 $133 $203 forward $387 $-1 #
+loop $-1 -1 -1 $-1 $-1 $202 $371 T 0 -7.3478807948841178e-016 0 6 6 10 periphery $422 F #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $423 $-1 $203 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 8 #
+vertex $424 90 -1 $-1 $203 $425 #
+vertex $426 94 -1 $-1 $310 $427 #
+ellipse-curve $-1 -1 -1 $-1 0 0 0 0 0 -1 6 0 0 1 I I #
+edge $428 83 -1 $-1 $308 0 $316 10 $303 $429 forward @7 unknown T 6 -7.3478807948841178e-016 0 6 0 10 #
+coedge $-1 -1 -1 $-1 $430 $205 $417 $431 forward $314 $-1 #
+coedge $-1 -1 -1 $-1 $205 $430 $432 $324 reversed $314 $-1 #
+coedge $-1 -1 -1 $-1 $433 $419 $134 $206 forward $375 $-1 #
+loop $-1 -1 -1 $-1 $-1 $205 $270 T 0 0 10 6 6 10 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $434 $-1 $206 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 2 #
+vertex $435 91 -1 $-1 $206 $436 #
+straight-curve $-1 -1 -1 $-1 0 0 10 -1 0 0 I I #
+coedge $-1 -1 -1 $-1 $404 $437 $207 $319 forward $290 $-1 #
+edge $438 107 -1 $-1 $322 0 $407 42.426406871192846 $318 $439 forward @7 unknown T 0 0 50 42.426406871192846 0 50 #
+coedge $-1 -1 -1 $-1 $411 $208 $437 $440 reversed $197 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $441 $-1 $209 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 7 #
+vertex $442 100 -1 $-1 $209 $443 #
+straight-curve $-1 -1 -1 $-1 0 0 0 0 0 1 I I #
+edge $444 86 -1 $-1 $215 0 $445 1.5707963267948966 $210 $446 forward @7 unknown T 0 0 10 2 2 10 #
+coedge $-1 -1 -1 $-1 $447 $448 $292 $326 forward $278 $-1 #
+edge $449 78 -1 $-1 $216 0 $445 2 $211 $450 forward @7 unknown T 0 0 10 0 2 10 #
+coedge $-1 -1 -1 $-1 $451 $212 $448 $452 reversed $329 $-1 #
+coedge $-1 -1 -1 $-1 $212 $451 $433 $453 forward $329 $-1 #
+loop $-1 -1 -1 $-1 $-1 $328 $289 T 0 -2.4492935982947059e-016 0 2 0 10 unknown #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $214 $137 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=E.00003 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $454 $-1 $215 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 2 #
+point $-1 -1 -1 $-1 2 0 10 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $455 $-1 $216 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+point $-1 -1 -1 $-1 0 0 10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $456 $218 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @811 181:USERINPUT=BACKGROUND OPTION=SET SHAPE=CYLINDER SCALEZ=5 SCALER=5   XYSYMMETRYPLANE=YES YZSYMMETRYPLANE=YES ROTZNUM=1 ZXSYMMETRYPLANE=YES EMRXY=TANGMAGN EMRYZ=TANGMAGN EMRZX=TANGMAGN8:CSTRUC=022:COMMANDNAME=BACKGROUND508:PARAMETERS=SCALEX=10 SCALEY=10 EMROTZTYPE=Positive THERMALRXY=Insulator THERMALRYZ=Insulator THERMALRZX=Insulator THERMALROTZTYPE=Positive STRESSRXY=NormFixed STRESSRYZ=NormFixed STRESSRZX=NormFixed STRESSROTZTYPE=Positive BCRIGHT=Default BCLEFT=Default BCTOP=Default BCBOTTOM=Default BCFRONT=Default BCBACK=Default BCRADIUS=Default REFLECTION=None OPTION=SET SHAPE=CYLINDER SCALEZ=5 SCALER=5 XYSYMMETRYPLANE=YES YZSYMMETRYPLANE=YES ROTZNUM=1 ZXSYMMETRYPLANE=YES EMRXY=TANGMAGN EMRYZ=TANGMAGN EMRZX=TANGMAGN 5:ID=9810:PARENTID=139:DESCRIPTION=Set background and symmetry14:ACTIONTYPE=575 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $220 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @120 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000018:Level=106:Size=119:MaterialLabel=Eisen #
+string_attrib-name_attrib-gen-attrib $-1 -1 $457 $221 $97 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @89 12:ENTITYTYPE=49:VERSION=325:Information=External face11:FaceSense=018:Identifier=A.00004 #
+cface_ptr-ct-attrib $-1 -1 $-1 $223 $46 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $140 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $458 $224 $70 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 12 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $459 $-1 $225 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 6 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $460 $-1 $228 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $461 $-1 $229 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 3 #
+straight-curve $-1 -1 -1 $-1 -2 2.4492935982947059e-016 0 -0 -0 -1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $230 $152 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=A.00002 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $462 $-1 $231 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 3 #
+point $-1 -1 -1 $-1 -2 2.4492935982947059e-016 -10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $233 $154 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=A.00004 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $463 $-1 $234 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 4 #
+point $-1 -1 -1 $-1 -2 2.4492935982947059e-016 10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $237 $156 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=A.00002 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $239 $157 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=A.00001 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $242 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @117 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000017:Level=56:Size=117:MaterialLabel=Air #
+string_attrib-name_attrib-gen-attrib $-1 -1 $464 $243 $109 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @89 12:ENTITYTYPE=49:VERSION=325:Information=External face11:FaceSense=018:Identifier=A.00004 #
+cface_ptr-ct-attrib $-1 -1 $-1 $245 $52 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $160 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $465 $246 $77 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 113 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $466 $-1 $247 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 6 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $467 $-1 $250 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $468 $-1 $251 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 3 #
+straight-curve $-1 -1 -1 $-1 -6 7.3478807948841178e-016 0 -0 -0 -1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $252 $172 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=A.00002 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $469 $-1 $253 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 3 #
+point $-1 -1 -1 $-1 -6 7.3478807948841178e-016 -10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $255 $174 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=A.00004 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $470 $-1 $256 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 4 #
+point $-1 -1 -1 $-1 -6 7.3478807948841178e-016 10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $259 $176 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=A.00002 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $261 $177 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=A.00001 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $471 $263 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @57 8:NAME=1959:VERSION=215:List=UniqueName15:Label=ModelBody #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $265 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @67 12:ENTITYTYPE=29:VERSION=418:Identifier=F.0000117:MaterialLabel=Air #
+cface $472 -1 $473 $122 $270 1 #
+face $474 68 -1 $-1 $184 $305 $29 $-1 $422 forward double in T 0 -7.3478807948841178e-016 0 6 6 10 F #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $267 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @118 12:ENTITYTYPE=29:VERSION=431:Information=Hexahedral meshable18:Identifier=B.000017:Level=56:Size=117:MaterialLabel=Air #
+cface $475 -1 $476 $84 $189 0 #
+rgb_color-st-attrib $-1 -1 $477 $-1 $268 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.60000002384185791 0.60000002384185791 0.60000002384185791 #
+loop $-1 -1 -1 $-1 $-1 $419 $268 T 2 -7.3478807948841178e-016 0 6 0 10 unknown #
+plane-surface $-1 -1 -1 $-1 0 0 0 0 -1 0 0 0 -1 forward_v I I I I #
+fctd_mark-eye-attrib $-1 -1 $478 $269 $184 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+rgb_color-st-attrib $-1 -1 $479 $-1 $270 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.60000002384185791 0.60000002384185791 0.60000002384185791 #
+plane-surface $-1 -1 -1 $-1 0 0 10 0 0 1 1 0 0 forward_v I I I I #
+coedge $-1 -1 -1 $-1 $480 $481 $283 $394 reversed $271 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $274 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @120 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000018:Level=106:Size=119:MaterialLabel=Eisen #
+cface $482 -1 $-1 $58 $289 0 #
+rgb_color-st-attrib $-1 -1 $483 $-1 $275 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.60000002384185791 0.60000002384185791 0.60000002384185791 #
+plane-surface $-1 -1 -1 $-1 0 0 10 0 0 1 1 0 0 forward_v I I I I #
+fctd_mark-eye-attrib $-1 -1 $484 $276 $187 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+rgb_color-st-attrib $-1 -1 $485 $-1 $277 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.60000002384185791 0.60000002384185791 0.60000002384185791 #
+loop $-1 -1 -1 $-1 $-1 $304 $277 T 0 0 0 6 6 0 unknown #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $486 $280 $126 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 8 #
+fctd_mark-eye-attrib $-1 -1 $487 $281 $189 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+coedge $-1 -1 -1 $-1 $488 $489 $410 $418 forward $282 $-1 #
+coedge $-1 -1 -1 $-1 $392 $283 $451 $490 forward $190 $-1 #
+coedge $-1 -1 -1 $-1 $283 $391 $491 $492 forward $190 $-1 #
+coedge $-1 -1 -1 $-1 $421 $420 $380 $394 reversed $387 $-1 #
+edge $493 72 -1 $-1 $494 -1.5707963267948966 $495 0 $380 $496 forward @7 unknown T 0 0 0 2 2 0 #
+cface_ptr-ct-attrib $-1 -1 $-1 $284 $39 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $497 #
+cface_ptr-ct-attrib $-1 -1 $498 $285 $60 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $181 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $499 $286 $88 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 3332 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $500 $287 $130 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 4 #
+fctd_mark-eye-attrib $-1 -1 $501 $288 $196 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+rgb_color-st-attrib $-1 -1 $502 $-1 $289 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.54901963472366333 0.90196079015731812 0.015686275437474251 #
+coedge $-1 -1 -1 $-1 $292 $410 $430 $503 reversed $197 $-1 #
+coedge $-1 -1 -1 $-1 $294 $293 $411 $504 forward $131 $-1 #
+edge $505 109 -1 $-1 $413 4.7123889803846897 $408 6.2831853071795862 $297 $506 forward @7 unknown T -7.7936045061194388e-015 0 0 42.426406871192846 42.426406871192846 0 #
+coedge $-1 -1 -1 $-1 $437 $318 $294 $405 forward $290 $-1 #
+edge $507 113 -1 $-1 $407 0 $508 1.5707963267948966 $404 $509 forward @7 unknown T 0 0 50 42.426406871192846 42.426406871192846 50 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $510 $-1 $296 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 5 #
+vertex $511 99 -1 $-1 $319 $512 #
+vertex $513 98 -1 $-1 $403 $514 #
+straight-curve $-1 -1 -1 $-1 42.426406871192846 0 25 -0 -0 -1 I I #
+coedge $-1 -1 -1 $-1 $401 $298 $302 $418 reversed $197 $-1 #
+coedge $-1 -1 -1 $-1 $298 $320 $402 $504 reversed $197 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $515 $-1 $299 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 9 #
+vertex $516 101 -1 $-1 $403 $517 #
+straight-curve $-1 -1 -1 $-1 0 0 0 0 1 0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $518 $-1 $301 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 4 #
+straight-curve $-1 -1 -1 $-1 0 0 0 -1 -0 -0 I I #
+coedge $-1 -1 -1 $-1 $303 $302 $311 $431 reversed $305 $-1 #
+edge $519 73 -1 $-1 $520 -10 $307 -0 $302 $521 forward @7 unknown T 0 6 0 0 6 10 #
+coedge $-1 -1 -1 $-1 $313 $522 $204 $310 forward $375 $-1 #
+coedge $-1 -1 -1 $-1 $393 $304 $522 $523 forward $387 $-1 #
+coedge $-1 -1 -1 $-1 $304 $393 $488 $524 forward $387 $-1 #
+cone-surface $-1 -1 -1 $-1 0 0 0 0 0 1 6 0 0 1 I I 0 1 6 forward I I I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $306 $203 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=E.00007 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $525 $-1 $307 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 8 #
+point $-1 -1 -1 $-1 0 6 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $526 $-1 $308 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 4 #
+point $-1 -1 -1 $-1 6 0 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $527 $-1 $310 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 3 #
+straight-curve $-1 -1 -1 $-1 6 -7.3478807948841178e-016 0 0 0 1 I I #
+coedge $-1 -1 -1 $-1 $312 $311 $489 $503 reversed $314 $-1 #
+edge $528 84 -1 $-1 $316 0 $520 1.5707963267948966 $311 $529 forward @7 unknown T 0 0 10 6 6 10 #
+coedge $-1 -1 -1 $-1 $481 $480 $210 $324 reversed $271 $-1 #
+coedge $-1 -1 -1 $-1 $522 $313 $481 $453 reversed $375 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $315 $206 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=E.00009 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $530 $-1 $316 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 3 #
+point $-1 -1 -1 $-1 6 0 10 #
+coedge $-1 -1 -1 $-1 $318 $404 $320 $440 forward $290 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $531 $-1 $319 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 6 #
+straight-curve $-1 -1 -1 $-1 0 0 50 1 0 0 I I #
+edge $532 116 -1 $-1 $508 -42.426406871192846 $322 0 $437 $533 forward @7 unknown T 0 0 50 0 42.426406871192846 50 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $321 $209 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=F.00001 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $534 $-1 $322 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 7 #
+point $-1 -1 -1 $-1 0 0 50 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $535 $-1 $324 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 26 #
+vertex $536 97 -1 $-1 $503 $537 #
+ellipse-curve $-1 -1 -1 $-1 0 0 10 0 0 1 2 0 0 1 I I #
+coedge $-1 -1 -1 $-1 $491 $325 $538 $539 forward $278 $-1 #
+coedge $-1 -1 -1 $-1 $325 $491 $327 $452 forward $278 $-1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $540 $-1 $326 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 13 #
+straight-curve $-1 -1 -1 $-1 0 0 10 0 1 -0 I I #
+coedge $-1 -1 -1 $-1 $328 $327 $391 $490 reversed $329 $-1 #
+edge $541 85 -1 $-1 $542 0 $216 10 $448 $543 forward @7 unknown T 0 0 0 0 0 10 #
+edge $544 80 -1 $-1 $495 0 $215 10 $481 $545 forward @7 unknown T 2 -2.4492935982947059e-016 0 2 0 10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $331 $215 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=A.00001 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $333 $216 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=E.00004 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $546 $335 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @175 32:USERINPUT=BACKGROUND OPTION=LOAD8:CSTRUC=022:COMMANDNAME=BACKGROUND23:PARAMETERS=OPTION=LOAD 5:ID=9710:PARENTID=139:DESCRIPTION=Set background and symmetry14:ACTIONTYPE=575 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $547 $337 $97 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 12 #
+cface_ptr-ct-attrib $-1 -1 $-1 $339 $70 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $96 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $340 $225 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=A.00006 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $341 $228 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=A.00005 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $342 $229 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=A.00003 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $345 $231 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=A.00003 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $348 $234 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=A.00004 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $548 $353 $109 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 113 #
+cface_ptr-ct-attrib $-1 -1 $-1 $355 $77 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $108 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $356 $247 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=A.00006 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $357 $250 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=A.00005 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $358 $251 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=A.00003 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $361 $253 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=A.00003 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $364 $256 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=A.00004 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $549 $368 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @58 8:NAME=1949:VERSION=217:List=Polarization14:Label=POSITIVE #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $370 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @67 12:ENTITYTYPE=29:VERSION=418:Identifier=F.0000117:MaterialLabel=Air #
+cface $550 -1 $551 $122 $275 1 #
+rgb_color-st-attrib $-1 -1 $552 $-1 $371 2 1 2 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0.60000002384185791 0.60000002384185791 0.60000002384185791 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $373 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @118 12:ENTITYTYPE=29:VERSION=431:Information=Hexahedral meshable18:Identifier=B.000017:Level=56:Size=117:MaterialLabel=Air #
+cface $553 -1 $554 $84 $277 0 #
+fctd_mark-eye-attrib $-1 -1 $555 $374 $268 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $556 $377 $184 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 13 #
+fctd_mark-eye-attrib $-1 -1 $557 $378 $270 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+coedge $-1 -1 -1 $-1 $432 $380 $447 $539 reversed $271 $-1 #
+coedge $-1 -1 -1 $-1 $380 $432 $328 $453 reversed $271 $-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $382 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @120 12:ENTITYTYPE=29:VERSION=430:Information=Prismatic meshable18:Identifier=A.000018:Level=106:Size=119:MaterialLabel=Eisen #
+fctd_mark-eye-attrib $-1 -1 $558 $383 $275 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $559 $385 $187 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 10 #
+fctd_mark-eye-attrib $-1 -1 $560 $386 $277 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $561 $388 $126 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 3 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $562 $389 $189 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 9 #
+coedge $-1 -1 -1 $-1 $538 $390 $421 $524 reversed $282 $-1 #
+coedge $-1 -1 -1 $-1 $390 $538 $401 $503 forward $282 $-1 #
+edge $563 81 -1 $-1 $495 -2 $542 -0 $391 $564 forward @7 unknown T 0 0 0 2 0 0 #
+coedge $-1 -1 -1 $-1 $448 $447 $392 $492 reversed $278 $-1 #
+edge $565 87 -1 $-1 $542 0 $494 2 $392 $566 forward @7 unknown T 0 0 0 0 2 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $567 $-1 $394 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 21 #
+vertex $568 88 -1 $-1 $394 $569 #
+vertex $570 93 -1 $-1 $453 $571 #
+ellipse-curve $-1 -1 -1 $-1 0 0 0 0 0 -1 2 0 0 1 I I #
+cface $572 -1 $573 $122 $39 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $396 $60 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @115 12:ENTITYTYPE=49:VERSION=325:Information=External face18:Identifier=F.0000311:FaceSense=023:ModelSymmetryBoundary=1 #
+cface_ptr-ct-attrib $-1 -1 $574 $397 $88 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $575 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $576 $398 $130 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 2061 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $577 $399 $196 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 5 #
+fctd_mark-eye-attrib $-1 -1 $578 $400 $289 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+edge $579 75 -1 $-1 $445 2 $520 6 $430 $580 forward @7 unknown T 0 2 10 0 6 10 #
+edge $581 114 -1 $-1 $413 -25 $508 25 $402 $582 forward @7 unknown T 0 42.426406871192846 0 0 42.426406871192846 50 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $583 $-1 $403 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 10 #
+ellipse-curve $-1 -1 -1 $-1 0 0 0 0 0 -1 42.426406871192846 0 0 1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $584 $-1 $405 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 12 #
+vertex $585 102 -1 $-1 $440 $586 #
+ellipse-curve $-1 -1 -1 $-1 0 0 50 0 0 1 42.426406871192846 0 0 1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $406 $296 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=F.00003 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $587 $-1 $407 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 6 #
+point $-1 -1 -1 $-1 42.426406871192846 0 50 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $588 $-1 $408 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 5 #
+point $-1 -1 -1 $-1 42.426406871192846 0 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $412 $299 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=F.00008 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $589 $-1 $413 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 9 #
+point $-1 -1 -1 $-1 0 42.426406871192846 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $415 $301 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=F.00002 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $590 $-1 $418 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 15 #
+vertex $591 95 -1 $-1 $503 $592 #
+straight-curve $-1 -1 -1 $-1 0 6 0 -0 -0 -1 I I #
+coedge $-1 -1 -1 $-1 $419 $433 $420 $523 reversed $375 $-1 #
+edge $593 79 -1 $-1 $308 -6 $495 -2 $420 $564 forward @7 unknown T 2 0 0 6 0 0 #
+edge $594 82 -1 $-1 $494 2 $307 6 $421 $566 forward @7 unknown T 0 2 0 0 6 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $424 $307 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=E.00007 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $426 $308 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=E.00006 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $428 $310 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=B.00001 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $595 $-1 $431 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 25 #
+ellipse-curve $-1 -1 -1 $-1 0 0 10 0 0 1 6 0 0 1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $435 $316 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=B.00001 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $438 $319 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=F.00004 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $596 $-1 $440 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 14 #
+straight-curve $-1 -1 -1 $-1 0 0 50 0 -1 0 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $442 $322 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=F.00001 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $444 $324 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=A.00004 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $597 $-1 $445 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 11 #
+point $-1 -1 -1 $-1 0 2 10 #
+coedge $-1 -1 -1 $-1 $489 $488 $480 $539 reversed $282 $-1 #
+edge $598 74 -1 $-1 $445 -10 $494 -0 $480 $599 forward @7 unknown T 0 2 0 0 2 10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $449 $326 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=E.00004 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $600 $-1 $452 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 18 #
+vertex $601 92 -1 $-1 $492 $602 #
+straight-curve $-1 -1 -1 $-1 0 0 0 0 0 1 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $603 $-1 $453 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 17 #
+straight-curve $-1 -1 -1 $-1 2 -2.4492935982947059e-016 0 0 0 1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $604 $456 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @811 301:USERINPUT=SOLENOID OPTION=MODIFY -KEEP XP1=3 YP1=3 XP2=4 YP2=3 XP3=4 YP3=4 XP4=3 YP4=4 CU1=0 CU2=0 CU3=0 CU4=0 INCIRCUIT=NO CIRCUITELEMENT= CURD=-1 TOLERANCE=0 DRIVELABEL='Default Drive' LCNAME='Global coordinate system' XCEN2=0 YCEN2=0 ZCEN2=-7 THETA2=90 PHI2=-90 PSI2=90 RXY=0 RYZ=0 RZX=0 SYMMETRY=18:CSTRUC=020:COMMANDNAME=SOLENOID309:PARAMETERS=REVERSE=NO MODELCOMPONENT=NO OPTION=MODIFY KEEP=NO XP1=3 YP1=3 XP2=4 YP2=3 XP3=4 YP3=4 XP4=3 YP4=4 CU1=0 CU2=0 CU3=0 CU4=0 INCIRCUIT=NO CURD=-1 TOLERANCE=0 DRIVELABEL='Default Drive' LCNAME='Global coordinate system' XCEN2=0 YCEN2=0 ZCEN2=-7 THETA2=90 PHI2=-90 PSI2=90 RXY=0 RYZ=0 RZX=0 SYMMETRY=1 5:ID=9510:PARENTID=127:DESCRIPTION=Modify solenoid14:ACTIONTYPE=60022:USEFLAG=PICK_CONDUCTOR18:WITHFLAG=CONDUCTOR22:ENDFLAG=PICK_CONDUCTOR19:IGNOREEMPTYPARS=ALL #
+cface_ptr-ct-attrib $-1 -1 $-1 $457 $97 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $67 #
+cface_ptr-ct-attrib $-1 -1 $-1 $464 $109 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $74 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $605 $471 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @58 8:NAME=1939:VERSION=221:List=ThermalCondition10:Label=NONE #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $473 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @67 12:ENTITYTYPE=29:VERSION=418:Identifier=F.0000117:MaterialLabel=Air #
+cface $606 -1 $575 $122 $130 0 #
+fctd_mark-eye-attrib $-1 -1 $607 $474 $371 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $476 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @118 12:ENTITYTYPE=29:VERSION=431:Information=Hexahedral meshable18:Identifier=B.000017:Level=56:Size=117:MaterialLabel=Air #
+cface $608 -1 $-1 $84 $371 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $609 $477 $268 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 7 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $610 $478 $184 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 31 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $611 $479 $270 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 14 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $612 $483 $275 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 15 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $613 $484 $187 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 20 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $614 $485 $277 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 11 #
+cface_ptr-ct-attrib $-1 -1 $615 $486 $126 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $85 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $616 $487 $189 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 40 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $617 $-1 $490 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 19 #
+straight-curve $-1 -1 -1 $-1 0 0 0 -1 -0 -0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $618 $-1 $492 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 22 #
+straight-curve $-1 -1 -1 $-1 0 0 0 0 1 0 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $493 $394 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=E.00001 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $619 $-1 $494 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 15 #
+point $-1 -1 -1 $-1 0 2 0 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $620 $-1 $495 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 13 #
+point $-1 -1 -1 $-1 2 0 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $497 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @67 12:ENTITYTYPE=29:VERSION=418:Identifier=F.0000117:MaterialLabel=Air #
+cface $621 -1 $-1 $122 $196 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $499 $88 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @121 12:ENTITYTYPE=49:VERSION=325:Information=External face18:Identifier=F.0000229:BoundaryLabel=Farfield Radius11:FaceSense=0 #
+cface $622 -1 $497 $122 $88 0 #
+cface_ptr-ct-attrib $-1 -1 $623 $500 $130 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $551 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $624 $501 $196 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 1413 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $625 $502 $289 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 6 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $626 $-1 $503 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 16 #
+straight-curve $-1 -1 -1 $-1 0 0 10 0 1 -0 I I #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $627 $-1 $504 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 11 #
+straight-curve $-1 -1 -1 $-1 0 42.426406871192846 25 0 0 1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $505 $403 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=F.00005 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $507 $405 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=F.00007 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $628 $-1 $508 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 10 #
+point $-1 -1 -1 $-1 0 42.426406871192846 50 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $511 $407 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=F.00004 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $513 $408 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=F.00003 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $516 $413 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=F.00005 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $519 $418 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=E.00008 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $629 $-1 $520 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 12 #
+point $-1 -1 -1 $-1 0 6 10 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $630 $-1 $523 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 20 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $631 $-1 $524 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 23 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $528 $431 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=B.00004 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $532 $440 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=F.00009 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $536 $445 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=E.00001 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $632 $-1 $539 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 24 #
+straight-curve $-1 -1 -1 $-1 0 2 0 -0 -0 -1 I I #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $541 $452 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=D.00001 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $633 $-1 $542 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 14 #
+point $-1 -1 -1 $-1 0 0 0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $544 $453 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=A.00001 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $634 $546 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @175 30:USERINPUT=SOLENOID OPTION=LOAD8:CSTRUC=020:COMMANDNAME=SOLENOID23:PARAMETERS=OPTION=LOAD 5:ID=9310:PARENTID=114:ACTIONTYPE=60022:USEFLAG=PICK_CONDUCTOR18:WITHFLAG=CONDUCTOR #
+string_attrib-name_attrib-gen-attrib $-1 -1 $635 $549 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @51 8:NAME=1929:VERSION=214:List=Condition10:Label=NONE #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $551 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @67 12:ENTITYTYPE=29:VERSION=418:Identifier=F.0000117:MaterialLabel=Air #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $636 $552 $371 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 12 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $554 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @118 12:ENTITYTYPE=29:VERSION=431:Information=Hexahedral meshable18:Identifier=B.000017:Level=56:Size=117:MaterialLabel=Air #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $637 $555 $268 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 40 #
+cface_ptr-ct-attrib $-1 -1 $638 $556 $184 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $123 $274 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $639 $557 $270 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 25 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $640 $558 $275 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 3 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $641 $559 $187 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @115 12:ENTITYTYPE=49:VERSION=325:Information=External face18:Identifier=E.0000211:FaceSense=023:ModelSymmetryBoundary=2 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $642 $560 $277 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 25 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $561 $126 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @115 12:ENTITYTYPE=49:VERSION=325:Information=External face18:Identifier=E.0000311:FaceSense=023:ModelSymmetryBoundary=1 #
+cface_ptr-ct-attrib $-1 -1 $643 $562 $189 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $373 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $563 $490 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=E.00005 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $565 $492 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=E.00006 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $568 $494 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=E.00003 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $570 $495 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=E.00002 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $573 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @67 12:ENTITYTYPE=29:VERSION=418:Identifier=F.0000117:MaterialLabel=Air #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $-1 $575 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @67 12:ENTITYTYPE=29:VERSION=418:Identifier=F.0000117:MaterialLabel=Air #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $576 $130 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @115 12:ENTITYTYPE=49:VERSION=325:Information=External face18:Identifier=F.0000411:FaceSense=023:ModelSymmetryBoundary=2 #
+cface_ptr-ct-attrib $-1 -1 $644 $577 $196 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $573 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $645 $578 $289 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 20 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $579 $503 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=E.00010 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $581 $504 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=F.00006 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $585 $508 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=F.00006 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $591 $520 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=E.00005 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $593 $523 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=E.00011 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $594 $524 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=E.00012 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $598 $539 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @47 12:ENTITYTYPE=89:VERSION=218:Identifier=E.00002 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $601 $542 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @48 13:ENTITYTYPE=169:VERSION=218:Identifier=D.00002 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $646 $604 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @327 39:USERINPUT=PICK OPTION=ADD TYPE=COND N=28:CSTRUC=016:COMMANDNAME=PICK61:PARAMETERS=WAIT=NO WILDCARD=NO OPTION=ADD TYPE=COND NUMBER=2 5:ID=9210:PARENTID=136:DESCRIPTION=Pick: 1 conductor picked14:ACTIONTYPE=55024:STARTFLAG=PICK_CONDUCTOR22:USEFLAG=PICK_CONDUCTOR18:NEEDFLAG=CONDUCTOR18:WITHFLAG=CONDUCTOR19:IGNOREEMPTYPARS=ALL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $647 $605 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @43 8:NAME=1919:VERSION=210:List=Level7:Label=5 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $648 $607 $371 1 0 0 0 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @11 VF_FACEAREA 94 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $649 $609 $268 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @115 12:ENTITYTYPE=49:VERSION=325:Information=External face18:Identifier=E.0000411:FaceSense=023:ModelSymmetryBoundary=3 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $610 $184 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @89 12:ENTITYTYPE=49:VERSION=325:Information=Internal face18:Identifier=A.0000111:FaceSense=0 #
+cface_ptr-ct-attrib $-1 -1 $650 $611 $270 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $370 $267 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $651 $612 $275 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @89 12:ENTITYTYPE=49:VERSION=325:Information=Internal face18:Identifier=A.0000411:FaceSense=0 #
+cface_ptr-ct-attrib $-1 -1 $-1 $613 $187 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $125 #
+cface_ptr-ct-attrib $-1 -1 $652 $614 $277 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $476 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $616 $189 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @115 12:ENTITYTYPE=49:VERSION=325:Information=External face18:Identifier=E.0000511:FaceSense=023:ModelSymmetryBoundary=2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $624 $196 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @125 12:ENTITYTYPE=49:VERSION=325:Information=External face18:Identifier=F.0000533:BoundaryLabel=Farfield Front (+z)11:FaceSense=0 #
+cface_ptr-ct-attrib $-1 -1 $653 $625 $289 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $382 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $654 $634 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @410 123:USERINPUT=CELLDATA OPTION=MODIFY MATERIALLABEL='Air' POTENTIAL=Default ELEMENTTYPE=Linear LEVEL=5 SIZE=1 ELEMSHAPEPREF=NONE8:CSTRUC=020:COMMANDNAME=CELLDATA114:PARAMETERS=OPTION=MODIFY MATERIALLABEL=Air POTENTIAL=Default ELEMENTTYPE=Linear LEVEL=5 SIZE=1 ELEMSHAPEPREF=NONE 5:ID=7710:PARENTID=125:DESCRIPTION=Set cell data14:ACTIONTYPE=57517:USEFLAG=PICK_CELL24:WITHFLAG=BODY_SPULENLUFT17:ENDFLAG=PICK_CELL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $655 $635 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @44 8:NAME=1899:VERSION=210:List=Level8:Label=10 #
+cface_ptr-ct-attrib $-1 -1 $656 $636 $371 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $265 $554 #
+cface_ptr-ct-attrib $-1 -1 $-1 $637 $268 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $-1 $183 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $639 $270 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @89 12:ENTITYTYPE=49:VERSION=325:Information=Internal face18:Identifier=B.0000411:FaceSense=0 #
+cface_ptr-ct-attrib $-1 -1 $-1 $640 $275 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 $473 $186 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $642 $277 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @115 12:ENTITYTYPE=49:VERSION=325:Information=External face18:Identifier=E.0000611:FaceSense=023:ModelSymmetryBoundary=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $645 $289 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @115 12:ENTITYTYPE=49:VERSION=325:Information=External face18:Identifier=E.0000111:FaceSense=023:ModelSymmetryBoundary=3 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $657 $646 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @356 82:USERINPUT=PICK OPTION=ADD TYPE=CELL UNIQUEBODYNAME='Spulenluft' IDENTIFIER=A.000018:CSTRUC=016:COMMANDNAME=PICK97:PARAMETERS=WAIT=NO WILDCARD=NO OPTION=ADD TYPE=CELL UNIQUEBODYNAME=Spulenluft IDENTIFIER=A.00001 5:ID=7510:PARENTID=131:DESCRIPTION=Pick: 1 cell picked14:ACTIONTYPE=55019:STARTFLAG=PICK_CELL24:NEEDFLAG=BODY_SPULENLUFT19:IGNOREEMPTYPARS=ALL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $658 $647 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @52 8:NAME=1889:VERSION=215:List=BackMethod10:Label=None #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $648 $371 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @89 12:ENTITYTYPE=49:VERSION=325:Information=Internal face18:Identifier=B.0000111:FaceSense=0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $659 $654 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @410 126:USERINPUT=CELLDATA OPTION=MODIFY MATERIALLABEL='Eisen' POTENTIAL=Default ELEMENTTYPE=Linear LEVEL=10 SIZE=1 ELEMSHAPEPREF=NONE8:CSTRUC=020:COMMANDNAME=CELLDATA117:PARAMETERS=OPTION=MODIFY MATERIALLABEL=Eisen POTENTIAL=Default ELEMENTTYPE=Linear LEVEL=10 SIZE=1 ELEMSHAPEPREF=NONE 5:ID=7310:PARENTID=125:DESCRIPTION=Set cell data14:ACTIONTYPE=57517:USEFLAG=PICK_CELL18:WITHFLAG=BODY_JOCH17:ENDFLAG=PICK_CELL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $660 $655 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @51 8:NAME=1879:VERSION=214:List=ForMethod10:Label=None #
+string_attrib-name_attrib-gen-attrib $-1 -1 $661 $657 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @338 76:USERINPUT=PICK OPTION=ADD TYPE=CELL UNIQUEBODYNAME='Joch' IDENTIFIER=A.000018:CSTRUC=016:COMMANDNAME=PICK91:PARAMETERS=WAIT=NO WILDCARD=NO OPTION=ADD TYPE=CELL UNIQUEBODYNAME=Joch IDENTIFIER=A.00001 5:ID=7110:PARENTID=131:DESCRIPTION=Pick: 1 cell picked14:ACTIONTYPE=55019:STARTFLAG=PICK_CELL18:NEEDFLAG=BODY_JOCH19:IGNOREEMPTYPARS=ALL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $662 $658 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @55 8:NAME=1869:VERSION=218:List=ElemShapePref10:Label=None #
+string_attrib-name_attrib-gen-attrib $-1 -1 $663 $659 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @226 27:USERINPUT=PICK OPTION=RESET8:CSTRUC=016:COMMANDNAME=PICK44:PARAMETERS=WAIT=NO WILDCARD=NO OPTION=RESET 5:ID=6410:PARENTID=133:DESCRIPTION=Reset picked entities14:ACTIONTYPE=55022:ENDFLAG=PICK_CONDUCTOR19:IGNOREEMPTYPARS=ALL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $664 $660 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @54 8:NAME=1859:VERSION=214:List=Potential13:Label=Default #
+string_attrib-name_attrib-gen-attrib $-1 -1 $665 $661 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @373 71:USERINPUT=TRANSFORM OPTION=APPLY KEEP=YES TYPE=DISPLACE DU=0 DV=0 DW=-38:CSTRUC=021:COMMANDNAME=TRANSFORM154:PARAMETERS=ROTU=1 ROTV=0 ROTW=0 ANGLE=90 NU=0 NV=0 NW=1 SCU=1 SCV=1 SCW=1 THETA=0 PHI=0 PSI=0 COUNT=1 OPTION=APPLY KEEP=YES TYPE=DISPLACE DU=0 DV=0 DW=-3 5:ID=6310:PARENTID=121:DESCRIPTION=Translate14:ACTIONTYPE=60022:USEFLAG=PICK_CONDUCTOR18:WITHFLAG=CONDUCTOR #
+string_attrib-name_attrib-gen-attrib $-1 -1 $666 $662 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @54 8:NAME=1849:VERSION=214:List=ModelPart13:Label=Default #
+string_attrib-name_attrib-gen-attrib $-1 -1 $667 $663 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @373 71:USERINPUT=TRANSFORM OPTION=APPLY KEEP=YES TYPE=DISPLACE DU=0 DV=0 DW=-48:CSTRUC=021:COMMANDNAME=TRANSFORM154:PARAMETERS=ROTU=1 ROTV=0 ROTW=0 ANGLE=90 NU=0 NV=0 NW=1 SCU=1 SCV=1 SCW=1 THETA=0 PHI=0 PSI=0 COUNT=1 OPTION=APPLY KEEP=YES TYPE=DISPLACE DU=0 DV=0 DW=-4 5:ID=6210:PARENTID=121:DESCRIPTION=Translate14:ACTIONTYPE=60022:USEFLAG=PICK_CONDUCTOR18:WITHFLAG=CONDUCTOR #
+string_attrib-name_attrib-gen-attrib $-1 -1 $668 $664 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @55 8:NAME=1759:VERSION=216:List=ElementType12:Label=Linear #
+string_attrib-name_attrib-gen-attrib $-1 -1 $669 $665 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @379 83:USERINPUT=TRANSFORM OPTION=APPLY KEEP=YES TYPE=ROTATE ROTU=1 ROTV=0 ROTW=0 ANGLE=908:CSTRUC=021:COMMANDNAME=TRANSFORM151:PARAMETERS=DU=0 DV=0 DW=0 NU=0 NV=0 NW=1 SCU=1 SCV=1 SCW=1 THETA=0 PHI=0 PSI=0 COUNT=1 OPTION=APPLY KEEP=YES TYPE=ROTATE ROTU=1 ROTV=0 ROTW=0 ANGLE=90 5:ID=5610:PARENTID=118:DESCRIPTION=Rotate14:ACTIONTYPE=60022:USEFLAG=PICK_CONDUCTOR18:WITHFLAG=CONDUCTOR #
+string_attrib-name_attrib-gen-attrib $-1 -1 $670 $666 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @62 8:NAME=1639:VERSION=216:List=Information19:Label=Internal face #
+string_attrib-name_attrib-gen-attrib $-1 -1 $671 $667 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @379 83:USERINPUT=TRANSFORM OPTION=APPLY KEEP=YES TYPE=ROTATE ROTU=1 ROTV=0 ROTW=0 ANGLE=908:CSTRUC=021:COMMANDNAME=TRANSFORM151:PARAMETERS=DU=0 DV=0 DW=0 NU=0 NV=0 NW=1 SCU=1 SCV=1 SCW=1 THETA=0 PHI=0 PSI=0 COUNT=1 OPTION=APPLY KEEP=YES TYPE=ROTATE ROTU=1 ROTV=0 ROTW=0 ANGLE=90 5:ID=5510:PARENTID=118:DESCRIPTION=Rotate14:ACTIONTYPE=60022:USEFLAG=PICK_CONDUCTOR18:WITHFLAG=CONDUCTOR #
+string_attrib-name_attrib-gen-attrib $-1 -1 $672 $668 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @68 8:NAME=1629:VERSION=216:List=Information25:Label=Hexahedral meshable #
+string_attrib-name_attrib-gen-attrib $-1 -1 $673 $669 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @327 39:USERINPUT=PICK OPTION=ADD TYPE=COND N=28:CSTRUC=016:COMMANDNAME=PICK61:PARAMETERS=WAIT=NO WILDCARD=NO OPTION=ADD TYPE=COND NUMBER=2 5:ID=5310:PARENTID=136:DESCRIPTION=Pick: 1 conductor picked14:ACTIONTYPE=55024:STARTFLAG=PICK_CONDUCTOR22:USEFLAG=PICK_CONDUCTOR18:NEEDFLAG=CONDUCTOR18:WITHFLAG=CONDUCTOR19:IGNOREEMPTYPARS=ALL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $674 $670 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @62 8:NAME=1619:VERSION=216:List=Information19:Label=External face #
+string_attrib-name_attrib-gen-attrib $-1 -1 $675 $671 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @811 181:USERINPUT=BACKGROUND OPTION=SET SHAPE=CYLINDER SCALEZ=5 SCALER=5   XYSYMMETRYPLANE=YES YZSYMMETRYPLANE=YES ROTZNUM=1 ZXSYMMETRYPLANE=YES EMRXY=NORMMAGN EMRYZ=TANGMAGN EMRZX=TANGMAGN8:CSTRUC=022:COMMANDNAME=BACKGROUND508:PARAMETERS=SCALEX=10 SCALEY=10 EMROTZTYPE=Positive THERMALRXY=Insulator THERMALRYZ=Insulator THERMALRZX=Insulator THERMALROTZTYPE=Positive STRESSRXY=NormFixed STRESSRYZ=NormFixed STRESSRZX=NormFixed STRESSROTZTYPE=Positive BCRIGHT=Default BCLEFT=Default BCTOP=Default BCBOTTOM=Default BCFRONT=Default BCBACK=Default BCRADIUS=Default REFLECTION=None OPTION=SET SHAPE=CYLINDER SCALEZ=5 SCALER=5 XYSYMMETRYPLANE=YES YZSYMMETRYPLANE=YES ROTZNUM=1 ZXSYMMETRYPLANE=YES EMRXY=NORMMAGN EMRYZ=TANGMAGN EMRZX=TANGMAGN 5:ID=4410:PARENTID=139:DESCRIPTION=Set background and symmetry14:ACTIONTYPE=575 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $676 $672 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @67 8:NAME=1609:VERSION=216:List=Information24:Label=Prismatic meshable #
+string_attrib-name_attrib-gen-attrib $-1 -1 $677 $673 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @175 32:USERINPUT=BACKGROUND OPTION=LOAD8:CSTRUC=022:COMMANDNAME=BACKGROUND23:PARAMETERS=OPTION=LOAD 5:ID=4310:PARENTID=139:DESCRIPTION=Set background and symmetry14:ACTIONTYPE=575 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $678 $674 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @50 8:NAME=1149:VERSION=29:List=Name15:Label=ModelBody #
+string_attrib-name_attrib-gen-attrib $-1 -1 $679 $675 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @160 26:USERINPUT=MATERIALS UNPICK8:CSTRUC=021:COMMANDNAME=MATERIALS25:PARAMETERS=OPTION=UNPICK 5:ID=4210:PARENTID=114:ACTIONTYPE=50029:ENDFLAG=PROPERTYPICK_MATERIAL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $680 $676 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_BOUNDARY_DATA @207 20:NAME=Farfield Radius9:VERSION=114:Condition=NONE21:ThermalCondition=NONE20:NormalDisplacement=015:DisplacementX=015:DisplacementY=015:DisplacementZ=010:Pressure=011:TractionX=011:TractionY=011:TractionZ=0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $681 $677 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @890 135:USERINPUT=MATERIALS OPTION=MODIFY MULINEARITY=LINEAR MUANISOTROPY=ISOTROPIC MU=1000 HC=0.0 SIGANISOTROPY=ISOTROPIC SIGMA=0.0 USESIBC=NO8:CSTRUC=021:COMMANDNAME=MATERIALS584:PARAMETERS=MPHASE=0 MUXX=1.0 MUYY=1.0 MUZZ=1.0 HCX=0.0 HCY=0.0 HCZ=0.0 MAPHASE=0 SPHASE=0 SIGXX=0.0 SIGYY=0.0 SIGZZ=0.0 SAPHASE=0 EPSANISOTROPY=ISOTROPIC EPSILON=1.0 EPHASE=0 EPSXX=1.0 EPSYY=1.0 EPSZZ=1.0 EAPHASE=0 KAPANISOTROPY=ISOTROPIC BASENAME=Eisen IW=EISEN_I JOULEHEAT=YES MECHANICALANISOTROPY=Isotropic THERMALEXPANSION=0 GENERALEXPANSION=0 THERMALEXPANSIONX=0 THERMALEXPANSIONY=0 THERMALEXPANSIONZ=0 GENERALEXPANSIONX=0 GENERALEXPANSIONY=0 GENERALEXPANSIONZ=0 OPTION=MODIFY MULINEARITY=LINEAR MUANISOTROPY=ISOTROPIC MU=1000 HC=0.0 SIGANISOTROPY=ISOTROPIC SIGMA=0.0 USESIBC=No 5:ID=4110:PARENTID=135:DESCRIPTION=Set material properties14:ACTIONTYPE=50029:USEFLAG=PROPERTYPICK_MATERIAL19:IGNOREEMPTYPARS=ALL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $682 $678 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_BOUNDARY_DATA @211 24:NAME=Farfield Front (+z)9:VERSION=114:Condition=NONE21:ThermalCondition=NONE20:NormalDisplacement=015:DisplacementX=015:DisplacementY=015:DisplacementZ=010:Pressure=011:TractionX=011:TractionY=011:TractionZ=0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $683 $679 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @186 32:USERINPUT=MATERIALS PICK 'Eisen'8:CSTRUC=021:COMMANDNAME=MATERIALS43:PARAMETERS=OPTION=PICK MATERIALLABEL=Eisen 5:ID=4010:PARENTID=114:ACTIONTYPE=50031:STARTFLAG=PROPERTYPICK_MATERIAL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $684 $680 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_MATERIAL_DATA @615 10:Name=Eisen9:Version=514:MuAnisotropy=113:MuLinearity=17:Mu=10008:MPhase=08:MuXX=1.08:MuYY=1.08:MuZZ=1.09:MAPhase=06:Hc=0.07:HcX=0.07:HcY=0.07:HcZ=0.015:SigAnisotropy=19:Sigma=0.08:SPhase=09:SigXX=0.09:SigYY=0.09:SigZZ=0.09:SAPhase=015:EpsAnisotropy=111:Epsilon=1.08:EPhase=09:EpsXX=1.09:EpsYY=1.09:EpsZZ=1.09:EAPhase=015:KapAnisotropy=114:BaseName=Eisen10:Iw=EISEN_I8:QWType=017:MuSigAnisotropy=17:MuSig=09:MuSigXX=09:MuSigYY=09:MuSigZZ=018:ThermalExpansion=018:GeneralExpansion=019:ThermalExpansionX=019:ThermalExpansionY=019:ThermalExpansionZ=019:GeneralExpansionX=019:GeneralExpansionY=019:GeneralExpansionZ=0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $685 $681 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @130 27:USERINPUT=MATERIALS GUIINIT8:CSTRUC=021:COMMANDNAME=MATERIALS26:PARAMETERS=OPTION=GUIINIT 5:ID=3910:PARENTID=114:ACTIONTYPE=500 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $686 $682 $5 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_MATERIAL_DATA @579 8:Name=Air14:MuAnisotropy=113:MuLinearity=16:Mu=1.08:MPhase=08:MuXX=1.08:MuYY=1.08:MuZZ=1.09:MAPhase=04:Hc=05:HcX=05:HcY=05:HcZ=015:SigAnisotropy=17:Sigma=08:SPhase=07:SigXX=07:SigYY=07:SigZZ=09:SAPhase=015:EpsAnisotropy=111:Epsilon=1.08:EPhase=09:EpsXX=1.09:EpsYY=1.09:EpsZZ=1.09:EAPhase=015:KapAnisotropy=112:BaseName=Air8:Iw=AIR_I8:QWType=017:MuSigAnisotropy=17:MuSig=09:MuSigXX=09:MuSigYY=09:MuSigZZ=018:ThermalExpansion=018:GeneralExpansion=019:ThermalExpansionX=019:ThermalExpansionY=019:ThermalExpansionZ=019:GeneralExpansionX=019:GeneralExpansionY=019:GeneralExpansionZ=0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $687 $683 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @524 171:USERINPUT=CYLINDER Name='Spulenluft' X0=0 Y0=0 Z0=-10 X1=0 Y1=0 Z1=10 -TUBE SHAPECONTROL=SIMPLE MAJORRADIUS=6 MINORRADIUS=6 TOPRADIUS=6 SIDES=2 MATERIALLABEL='Air' LEVEL=58:CSTRUC=020:COMMANDNAME=CYLINDER183:PARAMETERS=NAME=Spulenluft X0=0 Y0=0 Z0=-10 X1=0 Y1=0 Z1=10 TUBE=NO SHAPECONTROL=SIMPLE MAJORRADIUS=6 MINORRADIUS=6 TOPRADIUS=6 SIDES=2 MATERIALLABEL=Air LEVEL=5 UNIQUENAME=Spulenluft5:ID=3710:PARENTID=139:DESCRIPTION=Create cylinder: Spulenluft14:ACTIONTYPE=60025:STARTFLAG=BODY_SPULENLUFT19:IGNOREEMPTYPARS=ALL #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $688 $684 $5 1 0 0 1 1 1 1 1 1 1 1 0 1 0 0 1 0 1 @15 VF_ID_NUM_LOCAL 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $689 $685 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @856 173:USERINPUT=ANALYSISDATA OPTION=SET PROGRAM=ELEKTRATR CONVTOL=1e-08 DELTAT=0.01 HX=0 HY=0 HZ=0 LINEAR=YES LOGLIST= LOGLIST+=TTime RHS=ADAPTIVE UPDATE=SIMPLE USEDEFORMEDMESH=NO8:CSTRUC=024:COMMANDNAME=ANALYSISDATA566:PARAMETERS=NLITERTYPE=Newton NITERATIONS=21 TOLERANCE=0.001 RELAXATION=1 UPWINDING=YES ITPTSTEP=21 MAXADERR=0.1 RPM=3000 NEV=1 POTENTIALCUT=YES THERMALTEMP=0 LOGLIST=TTime USEBSCONDUCTORS=BSConductors BEAMTOLERANCE=0.001 BEAMMAGFIELDS=NO SECONDARYGEN=1 LDACTIVE=NO LDITERATIONS=11 LDTOLERANCE=0.001 ROTATION=YES DISPLACEMENT=NO GRAVITY=None USETHERMALEXPANSION=NO USEGENERALEXPANSION=NO SCALEDRIVE=ALL SAVEITERATIONS=NO SAVENTH=1 OPTION=SET PROGRAM=ELEKTRATR CONVTOL=1e-08 DELTAT=0.01 HXEXT=0 HYEXT=0 HZEXT=0 LINEAR=YES RHS=ADAPTIVE UPDATE=SIMPLE USEDEFORMEDMESH=NO 5:ID=3210:PARENTID=132:DESCRIPTION=Set analysis options14:ACTIONTYPE=500 #
+name_attrib-gen-attrib $-1 -1 $690 $686 $5 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 _VF_MODELBODY_ #
+string_attrib-name_attrib-gen-attrib $-1 -1 $691 $687 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @178 35:USERINPUT=MULTIPHYSICS OPTION=RESET8:CSTRUC=024:COMMANDNAME=MULTIPHYSICS24:PARAMETERS=OPTION=RESET 5:ID=3110:PARENTID=136:DESCRIPTION=Set multiphysics options14:ACTIONTYPE=500 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $688 $5 2 5 3 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @9 _VF_DATA_ @158 12:ENTITYTYPE=19:VERSION=212:Identifier=J14:Name=ModelBody20:UniqueName=ModelBody17:ModelPart=Default17:VectorsValidId=1514:GeomValidId=1417:ColoursValidId=23 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $692 $689 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @500 168:USERINPUT=CYLINDER Name='Joch' X0=0 Y0=0 Z0=-10 X1=0 Y1=0 Z1=10 -TUBE SHAPECONTROL=SIMPLE MAJORRADIUS=2 MINORRADIUS=2 TOPRADIUS=2 SIDES=2 MATERIALLABEL='Eisen' LEVEL=108:CSTRUC=020:COMMANDNAME=CYLINDER174:PARAMETERS=NAME=Joch X0=0 Y0=0 Z0=-10 X1=0 Y1=0 Z1=10 TUBE=NO SHAPECONTROL=SIMPLE MAJORRADIUS=2 MINORRADIUS=2 TOPRADIUS=2 SIDES=2 MATERIALLABEL=Eisen LEVEL=10 UNIQUENAME=Joch5:ID=3010:PARENTID=133:DESCRIPTION=Create cylinder: Joch14:ACTIONTYPE=60019:STARTFLAG=BODY_JOCH19:IGNOREEMPTYPARS=ALL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $693 $691 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @404 83:USERINPUT=TRANSFORM OPTION=APPLY KEEP=NO TYPE=ROTATE ROTU=1 ROTV=0 ROTW=0 ANGLE=-908:CSTRUC=021:COMMANDNAME=TRANSFORM151:PARAMETERS=DU=0 DV=0 DW=0 NU=0 NV=0 NW=1 SCU=1 SCV=1 SCW=1 THETA=0 PHI=0 PSI=0 COUNT=1 OPTION=APPLY KEEP=NO TYPE=ROTATE ROTU=1 ROTV=0 ROTW=0 ANGLE=-90 5:ID=2310:PARENTID=118:DESCRIPTION=Rotate14:ACTIONTYPE=60022:USEFLAG=PICK_CONDUCTOR18:WITHFLAG=CONDUCTOR22:ENDFLAG=PICK_CONDUCTOR #
+string_attrib-name_attrib-gen-attrib $-1 -1 $694 $692 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @327 39:USERINPUT=PICK OPTION=ADD TYPE=COND N=28:CSTRUC=016:COMMANDNAME=PICK61:PARAMETERS=WAIT=NO WILDCARD=NO OPTION=ADD TYPE=COND NUMBER=2 5:ID=1910:PARENTID=136:DESCRIPTION=Pick: 1 conductor picked14:ACTIONTYPE=55024:STARTFLAG=PICK_CONDUCTOR22:USEFLAG=PICK_CONDUCTOR18:NEEDFLAG=CONDUCTOR18:WITHFLAG=CONDUCTOR19:IGNOREEMPTYPARS=ALL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $695 $693 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @744 310:USERINPUT=SOLENOID OPTION=NEW -KEEP XP1=3 YP1=3 XP2=4 YP2=3 XP3=4 YP3=4 XP4=3 YP4=4 CU1=0 CU2=0 CU3=0 CU4=0 INCIRCUIT=NO CIRCUITELEMENT= CURD=1 TOLERANCE=0 DRIVELABEL='Default Drive' THETA2=0 PHI2=0 PSI2=0 XCEN2=0 YCEN2=0 ZCEN2=0 LCNAME='Global coordinate system' RXY=0 RYZ=0 RZX=0 SYMMETRY=1 MODELCOMPONENT=NO8:CSTRUC=020:COMMANDNAME=SOLENOID300:PARAMETERS=REVERSE=NO OPTION=NEW KEEP=NO XP1=3 YP1=3 XP2=4 YP2=3 XP3=4 YP3=4 XP4=3 YP4=4 CU1=0 CU2=0 CU3=0 CU4=0 INCIRCUIT=NO CURD=1 TOLERANCE=0 DRIVELABEL='Default Drive' THETA2=0 PHI2=0 PSI2=0 XCEN2=0 YCEN2=0 ZCEN2=0 LCNAME='Global coordinate system' RXY=0 RYZ=0 RZX=0 SYMMETRY=1 MODELCOMPONENT=NO 5:ID=1710:PARENTID=131:DESCRIPTION=Create new solenoid14:ACTIONTYPE=60019:STARTFLAG=CONDUCTOR #
+string_attrib-name_attrib-gen-attrib $-1 -1 $696 $694 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @129 30:USERINPUT=SOLENOID OPTION=LOAD8:CSTRUC=020:COMMANDNAME=SOLENOID23:PARAMETERS=OPTION=LOAD 5:ID=1610:PARENTID=114:ACTIONTYPE=600 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $697 $695 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @402 82:USERINPUT=TRANSFORM OPTION=APPLY KEEP=NO TYPE=ROTATE ROTU=1 ROTV=0 ROTW=0 ANGLE=908:CSTRUC=021:COMMANDNAME=TRANSFORM150:PARAMETERS=DU=0 DV=0 DW=0 NU=0 NV=0 NW=1 SCU=1 SCV=1 SCW=1 THETA=0 PHI=0 PSI=0 COUNT=1 OPTION=APPLY KEEP=NO TYPE=ROTATE ROTU=1 ROTV=0 ROTW=0 ANGLE=90 5:ID=1510:PARENTID=118:DESCRIPTION=Rotate14:ACTIONTYPE=60022:USEFLAG=PICK_CONDUCTOR18:WITHFLAG=CONDUCTOR22:ENDFLAG=PICK_CONDUCTOR #
+string_attrib-name_attrib-gen-attrib $-1 -1 $698 $696 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @327 39:USERINPUT=PICK OPTION=ADD TYPE=COND N=18:CSTRUC=016:COMMANDNAME=PICK61:PARAMETERS=WAIT=NO WILDCARD=NO OPTION=ADD TYPE=COND NUMBER=1 5:ID=1110:PARENTID=136:DESCRIPTION=Pick: 1 conductor picked14:ACTIONTYPE=55024:STARTFLAG=PICK_CONDUCTOR22:USEFLAG=PICK_CONDUCTOR18:NEEDFLAG=CONDUCTOR18:WITHFLAG=CONDUCTOR19:IGNOREEMPTYPARS=ALL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $699 $697 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @128 30:USERINPUT=SOLENOID OPTION=LOAD8:CSTRUC=020:COMMANDNAME=SOLENOID23:PARAMETERS=OPTION=LOAD 4:ID=910:PARENTID=114:ACTIONTYPE=600 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $700 $698 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @769 323:USERINPUT=SOLENOID OPTION=NEW -KEEP XP1=3 YP1=3 XP2=4 YP2=3 XP3=4 YP3=4 XP4=3 YP4=4 CU1=0 CU2=0 CU3=0 CU4=0 INCIRCUIT=NO CIRCUITELEMENT= CURD=1/area TOLERANCE=TOLERANCE DRIVELABEL='Default Drive' THETA2=0 PHI2=0 PSI2=0 XCEN2=0 YCEN2=0 ZCEN2=0 LCNAME='Global coordinate system' RXY=0 RYZ=0 RZX=0 SYMMETRY=1 MODELCOMPONENT=NO8:CSTRUC=020:COMMANDNAME=SOLENOID313:PARAMETERS=REVERSE=NO OPTION=NEW KEEP=NO XP1=3 YP1=3 XP2=4 YP2=3 XP3=4 YP3=4 XP4=3 YP4=4 CU1=0 CU2=0 CU3=0 CU4=0 INCIRCUIT=NO CURD=1/area TOLERANCE=TOLERANCE DRIVELABEL='Default Drive' THETA2=0 PHI2=0 PSI2=0 XCEN2=0 YCEN2=0 ZCEN2=0 LCNAME='Global coordinate system' RXY=0 RYZ=0 RZX=0 SYMMETRY=1 MODELCOMPONENT=NO 4:ID=610:PARENTID=131:DESCRIPTION=Create new solenoid14:ACTIONTYPE=60019:STARTFLAG=CONDUCTOR #
+string_attrib-name_attrib-gen-attrib $-1 -1 $701 $699 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @128 30:USERINPUT=SOLENOID OPTION=LOAD8:CSTRUC=020:COMMANDNAME=SOLENOID23:PARAMETERS=OPTION=LOAD 4:ID=510:PARENTID=114:ACTIONTYPE=600 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $702 $700 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @92 53:USERINPUT=COMPATIBILITY LOCALPICKING=YES IDVERSION=204:ID=410:PARENTID=114:ACTIONTYPE=650 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $703 $701 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @36 4:ID=310:PARENTID=114:ACTIONTYPE=600 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $704 $702 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @162 4:ID=210:PARENTID=157:DESCRIPTION=Start modelling operations (13.12.2016 09:27)14:ACTIONTYPE=60063:COMMENTSTRINGS=// Start modelling operations (13.12.2016 09:27) #
+string_attrib-name_attrib-gen-attrib $-1 -1 $705 $703 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_COMMANDHISTORYDATA @259 4:ID=114:ACTIONTYPE=70034:COMMENTSTRINGS=/ Opera-3d Modeller47:COMMENTSTRINGS=/ Opera 18R2 [Build 36714] (x64)46:COMMENTSTRINGS=/ Started: 13/Dec/2016 09:27:5375:COMMENTSTRINGS=/ Node: LATITUDE. Processor: Intel64/x64. System: Windows 1019:IGNOREEMPTYPARS=ALL #
+string_attrib-name_attrib-gen-attrib $-1 -1 $706 $704 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @21 VF_CIRCUITEDITOR_DATA @32 18:NAME=CircuitDesign9:VERSION=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $707 $705 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @67 7:NAME=889:VERSION=211:List=LCName30:Label=Global coordinate system #
+string_attrib-name_attrib-gen-attrib $-1 -1 $708 $706 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @55 7:NAME=769:VERSION=218:List=MaterialLabel11:Label=Eisen #
+string_attrib-name_attrib-gen-attrib $-1 -1 $709 $707 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @51 6:NAME=79:VERSION=218:List=MaterialLabel9:Label=Air #
+string_attrib-name_attrib-gen-attrib $-1 -1 $710 $708 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @65 7:NAME=659:VERSION=218:List=BoundaryLabel21:Label=Farfield Radius #
+string_attrib-name_attrib-gen-attrib $-1 -1 $711 $709 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @69 7:NAME=649:VERSION=218:List=BoundaryLabel25:Label=Farfield Front (+z) #
+string_attrib-name_attrib-gen-attrib $-1 -1 $712 $710 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @41 8:NAME=1999:VERSION=29:List=Size7:Label=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $713 $711 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @76 8:NAME=1989:VERSION=226:List=ModelSymmetryBoundary23:Label=YZ Symmetry Plane #
+string_attrib-name_attrib-gen-attrib $-1 -1 $714 $712 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @76 8:NAME=1979:VERSION=226:List=ModelSymmetryBoundary23:Label=XY Symmetry Plane #
+string_attrib-name_attrib-gen-attrib $-1 -1 $715 $713 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @76 8:NAME=1969:VERSION=226:List=ModelSymmetryBoundary23:Label=ZX Symmetry Plane #
+string_attrib-name_attrib-gen-attrib $-1 -1 $716 $714 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @57 8:NAME=1959:VERSION=215:List=UniqueName15:Label=ModelBody #
+string_attrib-name_attrib-gen-attrib $-1 -1 $717 $715 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @58 8:NAME=1949:VERSION=217:List=Polarization14:Label=POSITIVE #
+string_attrib-name_attrib-gen-attrib $-1 -1 $718 $716 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @58 8:NAME=1939:VERSION=221:List=ThermalCondition10:Label=NONE #
+string_attrib-name_attrib-gen-attrib $-1 -1 $719 $717 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @51 8:NAME=1929:VERSION=214:List=Condition10:Label=NONE #
+string_attrib-name_attrib-gen-attrib $-1 -1 $720 $718 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @43 8:NAME=1919:VERSION=210:List=Level7:Label=5 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $721 $719 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @44 8:NAME=1899:VERSION=210:List=Level8:Label=10 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $722 $720 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @52 8:NAME=1889:VERSION=215:List=BackMethod10:Label=None #
+string_attrib-name_attrib-gen-attrib $-1 -1 $723 $721 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @51 8:NAME=1879:VERSION=214:List=ForMethod10:Label=None #
+string_attrib-name_attrib-gen-attrib $-1 -1 $724 $722 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @55 8:NAME=1869:VERSION=218:List=ElemShapePref10:Label=None #
+string_attrib-name_attrib-gen-attrib $-1 -1 $725 $723 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @54 8:NAME=1859:VERSION=214:List=Potential13:Label=Default #
+string_attrib-name_attrib-gen-attrib $-1 -1 $726 $724 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @54 8:NAME=1849:VERSION=214:List=ModelPart13:Label=Default #
+string_attrib-name_attrib-gen-attrib $-1 -1 $727 $725 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @65 8:NAME=1829:VERSION=29:List=CLCS30:Label=Global coordinate system #
+string_attrib-name_attrib-gen-attrib $-1 -1 $728 $726 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @54 8:NAME=2009:VERSION=215:List=Drivelabel12:Label=Spule1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $729 $727 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @55 8:NAME=1759:VERSION=216:List=ElementType12:Label=Linear #
+string_attrib-name_attrib-gen-attrib $-1 -1 $730 $728 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @54 8:NAME=2019:VERSION=215:List=Drivelabel12:Label=Spule2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $731 $729 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @53 7:NAME=179:VERSION=213:List=Coiltype14:Label=SOLENOID #
+string_attrib-name_attrib-gen-attrib $-1 -1 $732 $730 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @62 8:NAME=1639:VERSION=216:List=Information19:Label=Internal face #
+string_attrib-name_attrib-gen-attrib $-1 -1 $733 $731 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @68 8:NAME=1629:VERSION=216:List=Information25:Label=Hexahedral meshable #
+string_attrib-name_attrib-gen-attrib $-1 -1 $734 $732 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @62 8:NAME=1619:VERSION=216:List=Information19:Label=External face #
+string_attrib-name_attrib-gen-attrib $-1 -1 $735 $733 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @67 8:NAME=1609:VERSION=216:List=Information24:Label=Prismatic meshable #
+string_attrib-name_attrib-gen-attrib $-1 -1 $736 $734 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_COLOUR_DATA @50 8:NAME=1149:VERSION=29:List=Name15:Label=ModelBody #
+string_attrib-name_attrib-gen-attrib $-1 -1 $737 $735 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 VF_BACKGROUND_DATA @207 20:NAME=EMLF_BACKGROUND9:VERSION=17:SHAPE=29:SCALEX=109:SCALEY=108:SCALEZ=58:SCALER=517:XYSYMMETRYPLANE=117:YZSYMMETRYPLANE=117:ZXSYMMETRYPLANE=19:ROTZNUM=114:LOCKGEOMETRY=15:RXY=15:RYZ=15:RZX=110:ROTZTYPE=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $738 $736 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 VF_BACKGROUND_DATA @241 31:NAME=LOCKEDMODELBODY_BACKGROUND9:VERSION=17:SHAPE=29:SCALEX=109:SCALEY=108:SCALEZ=58:SCALER=517:XYSYMMETRYPLANE=117:YZSYMMETRYPLANE=117:ZXSYMMETRYPLANE=19:ROTZNUM=114:LOCKGEOMETRY=120:AnalysisProgramID=145:RXY=15:RYZ=15:RZX=110:ROTZTYPE=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $739 $737 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @76 6:NAME=99:VERSION=115:Command=SOLVERS15:Parameter=UNITS10:ChrVal=CGS6:Used=2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $740 $738 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @77 6:NAME=89:VERSION=115:Command=SOLVERS16:Parameter=OPTION10:ChrVal=ADD6:Used=2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $741 $739 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @95 6:NAME=79:VERSION=112:Command=FILL19:Parameter=TOLERANCE14:ChrVal=1.0E-0611:Value=1e-066:Used=3 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $742 $740 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @83 6:NAME=69:VERSION=112:Command=MESH19:Parameter=GENERATOR16:ChrVal=AUTOMATIC6:Used=2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $743 $741 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @80 6:NAME=59:VERSION=112:Command=MESH14:Parameter=TYPE18:ChrVal=PREFERTETRA6:Used=2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $744 $742 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @95 6:NAME=49:VERSION=112:Command=MESH19:Parameter=TOLERANCE14:ChrVal=1.0E-0611:Value=1e-066:Used=3 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $745 $743 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @78 6:NAME=39:VERSION=112:Command=MESH20:Parameter=SURFACETOL10:ChrVal=0.06:Used=2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $746 $744 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @78 6:NAME=29:VERSION=112:Command=MESH19:Parameter=NORMALTOL11:ChrVal=30.06:Used=2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $747 $745 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @78 7:NAME=179:VERSION=113:Command=TITLE14:Parameter=DATE14:ChrVal=TOPLEFT6:Used=2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $748 $746 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @79 7:NAME=169:VERSION=113:Command=TITLE18:Parameter=POSITION11:ChrVal=NONE6:Used=2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $749 $747 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @63 7:NAME=159:VERSION=113:Command=TITLE16:Parameter=STRING6:Used=0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $750 $748 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @93 7:NAME=149:VERSION=115:Command=$STRING25:Parameter=VF_ANALYSISTYPE16:ChrVal=ElektraTR6:Used=2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $751 $749 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @88 7:NAME=139:VERSION=121:Command=PRECISIONDATA19:Parameter=SMALLFACE11:Value=1e-066:Used=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $752 $750 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @85 7:NAME=129:VERSION=121:Command=PRECISIONDATA16:Parameter=ABSTOL11:Value=1e-066:Used=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $753 $751 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @82 7:NAME=119:VERSION=115:Command=SOLVERS17:Parameter=SURFACE13:ChrVal=CURVED6:Used=2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $754 $752 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @82 7:NAME=109:VERSION=115:Command=SOLVERS17:Parameter=ELEMENT13:ChrVal=LINEAR6:Used=2 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $755 $753 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @12 VF_DCOD_DATA @70 6:NAME=19:VERSION=112:Command=MESH14:Parameter=SIZE9:ChrVal=106:Used=2 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $756 $754 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 VF_DATA_VECTOR3 1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $757 $755 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 VF_DATA_VECTOR2 1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $758 $756 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 VF_DATA_VECTOR1 @9 CONDUCTOR #
+string_attrib-name_attrib-gen-attrib $-1 -1 $759 $757 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @14 VF_DATA_HIDDEN @0  #
+string_attrib-name_attrib-gen-attrib $-1 -1 $760 $758 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_DATA_SELECTED @16 1,,2,,6,,7,,42,, #
+string_attrib-name_attrib-gen-attrib $-1 -1 $761 $759 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @18 VF_BACKGROUND_DATA @212 21:NAME=OPERA_BACKGROUND9:VERSION=17:SHAPE=29:SCALEX=109:SCALEY=108:SCALEZ=58:SCALER=517:XYSYMMETRYPLANE=117:YZSYMMETRYPLANE=117:ZXSYMMETRYPLANE=19:ROTZNUM=114:LOCKGEOMETRY=16:RXY=-16:RYZ=-16:RZX=-111:ROTZTYPE=-1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $762 $760 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_MATERIAL_DATA @615 10:Name=Eisen9:Version=514:MuAnisotropy=113:MuLinearity=17:Mu=10008:MPhase=08:MuXX=1.08:MuYY=1.08:MuZZ=1.09:MAPhase=06:Hc=0.07:HcX=0.07:HcY=0.07:HcZ=0.015:SigAnisotropy=19:Sigma=0.08:SPhase=09:SigXX=0.09:SigYY=0.09:SigZZ=0.09:SAPhase=015:EpsAnisotropy=111:Epsilon=1.08:EPhase=09:EpsXX=1.09:EpsYY=1.09:EpsZZ=1.09:EAPhase=015:KapAnisotropy=114:BaseName=Eisen10:Iw=EISEN_I8:QWType=017:MuSigAnisotropy=17:MuSig=09:MuSigXX=09:MuSigYY=09:MuSigZZ=018:ThermalExpansion=018:GeneralExpansion=019:ThermalExpansionX=019:ThermalExpansionY=019:ThermalExpansionZ=019:GeneralExpansionX=019:GeneralExpansionY=019:GeneralExpansionZ=0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $763 $761 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_MATERIAL_DATA @579 8:Name=Air14:MuAnisotropy=113:MuLinearity=16:Mu=1.08:MPhase=08:MuXX=1.08:MuYY=1.08:MuZZ=1.09:MAPhase=04:Hc=05:HcX=05:HcY=05:HcZ=015:SigAnisotropy=17:Sigma=08:SPhase=07:SigXX=07:SigYY=07:SigZZ=09:SAPhase=015:EpsAnisotropy=111:Epsilon=1.08:EPhase=09:EpsXX=1.09:EpsYY=1.09:EpsZZ=1.09:EAPhase=015:KapAnisotropy=112:BaseName=Air8:Iw=AIR_I8:QWType=017:MuSigAnisotropy=17:MuSig=09:MuSigXX=09:MuSigYY=09:MuSigZZ=018:ThermalExpansion=018:GeneralExpansion=019:ThermalExpansionX=019:ThermalExpansionY=019:ThermalExpansionZ=019:GeneralExpansionX=019:GeneralExpansionY=019:GeneralExpansionZ=0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $764 $762 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 VF_DLIST_DATA @41 14:NAME=TOSCAMAGN9:VERSION=210:DataList=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $765 $763 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 VF_DLIST_DATA @41 14:NAME=TOSCAELEC9:VERSION=210:DataList=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $766 $764 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 VF_DLIST_DATA @39 12:NAME=TEMPOTR9:VERSION=210:DataList=0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $767 $765 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 VF_DLIST_DATA @45 14:NAME=SOPRANOSS9:VERSION=214:DataList=1e+09 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $768 $766 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 VF_DLIST_DATA @37 10:NAME=SCALA9:VERSION=210:DataList=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $769 $767 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 VF_DLIST_DATA @38 11:NAME=QUENCH9:VERSION=210:DataList=0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $770 $768 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 VF_DLIST_DATA @55 28:NAME=MULTIPHYSICSACTIVESTAGE9:VERSION=210:DataList=0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $771 $769 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 VF_DLIST_DATA @41 14:NAME=ELEKTRATR9:VERSION=210:DataList=0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $772 $770 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 VF_DLIST_DATA @42 14:NAME=ELEKTRASS9:VERSION=211:DataList=50 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $773 $771 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 VF_DLIST_DATA @37 10:NAME=DEMAG9:VERSION=210:DataList=0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $774 $772 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @13 VF_DLIST_DATA @38 11:NAME=CARMEN9:VERSION=210:DataList=0 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $775 $773 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @605 14:NAME=ToscaMagn9:VERSION=49:PROGRAM=113:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $776 $774 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @605 14:NAME=ToscaElec9:VERSION=49:PROGRAM=213:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $777 $775 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @608 17:NAME=ToscaCurrent9:VERSION=49:PROGRAM=313:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $778 $776 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @603 12:NAME=TempoTR9:VERSION=49:PROGRAM=513:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $779 $777 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @603 12:NAME=TempoST9:VERSION=49:PROGRAM=413:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $780 $778 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @606 13:NAME=StressST9:VERSION=410:PROGRAM=5113:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $781 $779 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @639 13:NAME=StressEV9:VERSION=410:PROGRAM=5213:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=300015:FREQUENCY=0.00116:FREQUENCY2=100005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=317:Size=0.002141374718:XSize=0.002141374718:YSize=0.002141374718:ZSize=0.002141374717:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $782 $780 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @607 14:NAME=SopranoSS9:VERSION=410:PROGRAM=3113:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e-0819:XSize=2.1413747e-0819:YSize=2.1413747e-0819:ZSize=2.1413747e-0817:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $783 $781 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @652 14:NAME=SopranoEV9:VERSION=410:PROGRAM=3213:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=300015:FREQUENCY=1e+0916:FREQUENCY2=2e+095:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=4017:MeshLimitFactor=315:MaxMeshChange=320:Size=3.747405725e-0921:XSize=3.747405725e-0921:YSize=3.747405725e-0921:ZSize=3.747405725e-0917:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $784 $782 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @603 10:NAME=Scala9:VERSION=410:PROGRAM=2113:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $785 $783 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @602 11:NAME=Quench9:VERSION=49:PROGRAM=613:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $786 $784 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @610 17:NAME=Multiphysics9:VERSION=410:PROGRAM=6113:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $787 $785 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @607 14:NAME=ElektraVL9:VERSION=410:PROGRAM=1213:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $788 $786 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @636 14:NAME=ElektraTR9:VERSION=410:PROGRAM=1413:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=300011:FREQUENCY=012:FREQUENCY2=05:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $789 $787 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @607 14:NAME=ElektraSS9:VERSION=410:PROGRAM=1113:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $790 $788 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @607 14:NAME=ElektraRO9:VERSION=410:PROGRAM=1313:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $791 $789 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @603 10:NAME=Demag9:VERSION=410:PROGRAM=1613:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $792 $790 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_ANALYSIS_DATA @604 11:NAME=Carmen9:VERSION=410:PROGRAM=1513:ITERATIONS=2115:TOLERANCE=0.0017:HXEXT=07:HYEXT=07:HZEXT=010:NLITTIM=2112:MAXADERR=0.111:DELTAT=0.018:RPM=30005:NEV=113:CONVTOL=1e-0813:THERMALTEMP=015:MinMeshCells=1417:MeshLimitFactor=315:MaxMeshChange=318:Size=2.1413747e+1319:XSize=2.1413747e+1319:YSize=2.1413747e+1319:ZSize=2.1413747e+1317:DefaultMedium=Air13:BoxDistance=014:XPeriodShift=014:YPeriodShift=014:ZPeriodShift=013:LogList=TTime11:AngModNum=012:Relaxation=119:BeamTolerance=0.00114:SecondaryGen=115:LDIterations=1117:LDTolerance=0.00115:MaxAdaptLevel=413:AdaptTol=0.0214:SCALEDRIVE=ALL9:SAVENTH=1 #
+integer_attrib-name_attrib-gen-attrib $-1 -1 $793 $791 $0 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 VF_DATA_TOUCHED 239 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $794 $792 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @15 VF_BHCURVE_DATA @448 12:NAME=Default9:VERSION=19:UNITSET=03:B=06:B=64006:B=92007:B=101007:B=110007:B=120007:B=130007:B=140007:B=145007:B=150007:B=155007:B=157507:B=160007:B=165007:B=170007:B=175007:B=180007:B=185007:B=190007:B=195007:B=200007:B=205007:B=210007:B=215007:B=220007:B=225007:B=230003:H=03:H=15:H=1.73:H=25:H=2.43:H=33:H=45:H=6.25:H=8.14:H=114:H=164:H=204:H=274:H=424:H=604:H=825:H=1155:H=1505:H=1905:H=2335:H=2805:H=3455:H=4505:H=6005:H=8006:H=11806:H=1600 #
+string_attrib-name_attrib-gen-attrib $-1 -1 $-1 $793 $0 2 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 @16 VF_MODELLER_DATA @144 17:NAME=MODELLERDATA9:VERSION=113:SURFACEMESH=314:SELEMENTS=128312:VOLUMEMESH=214:VELEMENTS=417912:IDVERSION=2012:ABSTOL=1e-0615:SMALLFACE=1e-06 #
+End-of-ACIS-data 
