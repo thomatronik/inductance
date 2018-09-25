@@ -1,4 +1,4 @@
-Link for video [link zu seite](https://github.com/thomatronik/inductance/)
+Link for video [link zu seite](https://github.com/thomatronik/inductance/2Spulen.log)
 
 ## Welcome to GitHub Pages
 
