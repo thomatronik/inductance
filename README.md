@@ -1,4 +1,4 @@
-Link for video [link zu seite](https://github.com/thomatronik/inductance/2Spulen.log)
+Link for video [Gleichung Lösen](https://www.youtube.com/watch?v=44pAWI7v5Zk)
 
 ## Welcome to GitHub Pages
 
